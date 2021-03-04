@@ -1,0 +1,1197 @@
+                    ----------------------------------------
+                           ### CANALE ITALIATV :) ###
+                    ----------------------------------------
+                       By: http://t.me/dhudz123 (Telegram)
+                       
+                       OFFICIAL WEBISTE SPORTS STREAMING:
+                           Link: https://italiatv.ga
+ 
+---------------------------------------------------------------------------------------------------------------
+
+
+#EXTM3U
+#EXTINF:0 tvg-logo="https://imgur.com/lfCeVsr.jpg" group-title="🇮🇹== I T A L I A ==🇮🇹", RAI 1 HD - (SOLO ANDROID)
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803
+#EXTINF:0 tvg-logo="https://imgur.com/kRnBNzA.jpg" group-title="🇮🇹== I T A L I A ==🇮🇹", RAI 2 HD - (SOLO ANDROID)
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
+#EXTINF:0 tvg-logo="https://imgur.com/3Qlbb2h.jpg" group-title="🇮🇹== I T A L I A ==🇮🇹", RAI 3 HD - (SOLO ANDROID)
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
+#EXTINF:0 tvg-logo="https://imgur.com/a3AojC9.jpg" group-title="🇮🇹== I T A L I A ==🇮🇹", RETE 4 HD
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+#EXTINF:0 tvg-logo="https://imgur.com/VrH5MQE.jpg" group-title="🇮🇹== I T A L I A ==🇮🇹", CANALE 5 HD
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
+#EXTINF:0 tvg-logo="https://imgur.com/euo0dkg.jpg" group-title="🇮🇹== I T A L I A ==🇮🇹", ITALIA 1 HD
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+#EXTINF:0 tvg-logo="https://imgur.com/uMcwx2p.jpg" group-title="🇮🇹== I T A L I A ==🇮🇹", RAKUTEN ACTION MOVIE HD
+https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-logo="https://imgur.com/o1qKoje.jpg" group-title="🇮🇹== I T A L I A ==🇮🇹", RAKUTEN COMEDY MOVIE HD
+https://rakuten-comedymovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/P4hb5Ws.jpg" group-title="🇮🇹== I T A L I A ==🇮🇹", RAKUTEN TOP SERIES HD
+https://endemol-top-serie-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/oMXfdkV.png" group-title="🇮🇹== I T A L I A ==🇮🇹", RAKUTEN TV SHOWS HD
+https://rakuten-tvshows-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-logo="https://imgur.com/N6OtbVs.png" group-title="🇮🇹== I T A L I A ==🇮🇹", DONNA TV HD
+https://5f11919dca3bd.streamlock.net/donnatv/donnatv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://imgur.com/ur0dNVZ.jpg" group-title="🇮🇹== I T A L I A ==🇮🇹", DMAX HD
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
+#EXTINF:0 tvg-logo="http://logo.premium-ott.com:8000/logo/realtime.png" group-title="🇮🇹== I T A L I A ==🇮🇹", REAL TIME HD
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+#EXTINF:0 tvg-logo="https://imgur.com/F8mKg7j.jpg" group-title="🇮🇹== I T A L I A ==🇮🇹", FOCUS HD
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
+#EXTINF:0 tvg-logo="http://logo.premium-ott.com:8000/logo/iris.png" group-title="🇮🇹== I T A L I A ==🇮🇹", IRIS HD
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+#EXTINF:0 tvg-logo="https://www.tvdream.net/img/paramount-network.png" group-title="🇮🇹== I T A L I A ==🇮🇹", PARAMOUNT CHANNEL HD
+http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
+#EXTINF:0 tvg-logo="https://imgur.com/R55o5Q4.jpg" group-title="🇮🇹== I T A L I A ==🇮🇹", GIALLO HD
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
+#EXTINF:0 tvg-logo="https://imgur.com/cOpASOB.png" group-title="🇮🇹== I T A L I A ==🇮🇹", CINE 34 HD
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
+#EXTINF:0 tvg-logo="http://logo.premium-ott.com:8000/logo/nove.png" group-title="🇮🇹== I T A L I A ==🇮🇹", NOVE HD
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/RuuGNzX.png" group-title="🇮🇹== I T A L I A ==🇮🇹", FOOD NETWORK HD
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
+#EXTINF:0 tvg-logo="http://logo.premium-ott.com:8000/logo/motortrend.png" group-title="🇮🇹== I T A L I A ==🇮🇹", MOTOR TREND HD
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+#EXTINF:0 tvg-logo="http://logo.premium-ott.com:8000/logo/muS5HF5.jpg" group-title="🇮🇹== I T A L I A ==🇮🇹", MOTOR TV HD
+https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/20@2.png" group-title="🇮🇹== I T A L I A ==🇮🇹", 20 MEDIASET HD
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
+#EXTINF:0 tvg-logo="http://logo.premium-ott.com:8000/logo/topcrime.png" group-title="🇮🇹== I T A L I A ==🇮🇹", TOP CRIME HD
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
+#EXTINF:0 tvg-logo="http://logo.premium-ott.com:8000/logo/mediasetextra.png" group-title="🇮🇹== I T A L I A ==🇮🇹", MEDIASET EXTRA HD
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
+#EXTINF:0 tvg-logo="http://logo.premium-ott.com:8000/logo/italia2.png" group-title="🇮🇹== I T A L I A ==🇮🇹", ITALIA 2 HD
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
+#EXTINF:0 tvg-logo="http://logo.premium-ott.com:8000/logo/la5.png" group-title="🇮🇹== I T A L I A ==🇮🇹", LA 5 HD
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/J06pfxg.png" group-title="🇮🇹== I T A L I A ==🇮🇹", VH1 ITALIA HD
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:0 tvg-logo="https://www.tvdream.net/img/super-tennis-tv.png" group-title="🇮🇹== I T A L I A ==🇮🇹", SUPER TENNIS HD
+https://eclexiafitms.streaming.mediaservices.windows.net/74e5df5a-b28d-4439-aa49-d225a35a26cd/9d8f9220-8371-48bd-954d-f69cd7a3ef4e.ism/QualityLevels(1464000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
+#EXTINF:0 tvg-logo="https://i.imgur.com/byD2nrE.png" group-title="🇮🇹== I T A L I A ==🇮🇹", MY SURF TV HD
+https://alchimie-mysurf-2-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://imgur.com/XBORTlp.jpg" group-title="🇮🇹== GRANDE FRATELLO VIP ==🇮🇹", GF - REGIA 1 HD
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b7)/index.m3u8
+#EXTINF:0 tvg-logo="https://imgur.com/XBORTlp.jpg" group-title="🇮🇹== GRANDE FRATELLO VIP ==🇮🇹", GF - REGIA 2 HD
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b8)/index.m3u8
+#EXTINF:0 tvg-logo="https://imgur.com/XBORTlp.jpg" group-title="🇮🇹== GRANDE FRATELLO VIP ==🇮🇹", GF - REGIA +1 HD
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b9)/index.m3u8
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1144638925736218624/0Q08kh8-_400x400.png" group-title="🇮🇹== N E W S ==🇮🇹", SKY TG24 HD
+https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/kDDYZ7Q.png" group-title="🇮🇹== N E W S ==🇮🇹", TGCOM24 HD
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
+#EXTINF:0 tvg-logo="https://video.milanofinanza.it/img/v-classcnbc.jpg" group-title="🇮🇹== N E W S ==🇮🇹", CLASS CNBC HD
+https://859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="🇮🇹== N E W S ==🇮🇹", EURONEWS HD
+https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://logo.premium-ott.com:8000/logo/deejay.png" group-title="🇮🇹== RADIO FM ==🇮🇹", DEEJAY TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+#EXTINF:0 tvg-logo="http://logo.premium-ott.com:8000/logo/rtl102.5.png" group-title="🇮🇹== RADIO FM ==🇮🇹", RTL 102.5 BEST
+https://rtl-video4-stream.thron.com/live-video/video4/ngrp:video4/playlist.m3u8
+#EXTINF:0 tvg-logo="http://logo.premium-ott.com:8000/logo/rtl102.5.png" group-title="🇮🇹== RADIO FM ==🇮🇹", RTL 102.5 TV
+https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
+#EXTINF:0 tvg-logo="http://logo.premium-ott.com:8000/logo/radioitalia.png" group-title="🇮🇹== RADIO FM ==🇮🇹", RADIO ITALIA TV
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
+#EXTINF:0 tvg-logo="http://logo.premium-ott.com:8000/logo/radio105.png" group-title="🇮🇹== RADIO FM ==🇮🇹", RADIO 105 TV
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ec)/index.m3u8
+#EXTINF:0 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/61uRO3-XMLL.png" group-title="🇮🇹== RADIO FM ==🇮🇹", RADIO MONTE CARLO TV
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
+#EXTINF:0 tvg-logo="https://www.radiozeta.it/assets/img/logo/radiozeta-logo-200.jpg" group-title="🇮🇹== RADIO FM ==🇮🇹", RADIO ZETA TV
+https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8
+#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51JworhhugL.png" group-title="🇮🇹== RADIO FM ==🇮🇹", VIRGIN RADIO TV
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/0bv1gID.png" group-title="🇮🇹== RADIO FM ==🇮🇹", RADIO CAPITAL TV
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/O8ByUjT.png" group-title="🇮🇹== RADIO FM ==🇮🇹", RADIO FRECCIA
+https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist_1.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghLKlHs.png" group-title="🇮🇹== RADIO FM ==🇮🇹", RADIO M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/LDcsCZC.png" group-title="🇮🇹== RADIO FM ==🇮🇹", RDS SOCIAL TV
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/vdpRZt5YxrA/hqdefault.jpg" group-title="🇮🇹== RADIO FM ==🇮🇹", VUEMME TV
+https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://imgur.com/Ks1tijX.jpg" group-title="🇮🇹== BAMBINI ==🇮🇹", SUPER! HD
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/index_2500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-logo="https://imgur.com/Ks1tijX.jpg" group-title="🇮🇹== BAMBINI ==🇮🇹", BOING ITALIA HD
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
+#EXTINF:0 tvg-logo="https://imgur.com/Ks1tijX,jpg" group-title="🇮🇹== BAMBINI ==🇮🇹", FRISBEE HD
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+#EXTINF:0 tvg-logo="https://imgur.com/Ks1tijX.jpg" group-title="🇮🇹== BAMBINI ==🇮🇹", CARTOONITO HD
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
+#EXTINF:0 tvg-logo="https://imgur.com/Ks1tijX.jpg" group-title="🇮🇹== BAMBINI ==🇮🇹", K2 HD
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+#EXTINF:0 tvg-logo="https://imgur.com/AeHlXnK.jpg" group-title="🇮🇹== BAMBINI ==🇮🇹", MONDO KIDS HD
+https://mondotv-mondotvkids-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-logo="https://imgur.com/H7GtB0T.jpg" group-title="🇮🇹== BAMBINI ==🇮🇹", AMUSE ANIMAZIONE HD
+https://amuse-amuseanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.tvdream.net/img/raiyoyo.png" group-title="🇮🇹== BAMBINI ==🇮🇹", RAI YOYO HD - (SOLO ANDROID)
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
+
+#EXTINF: -1 group-title="FILM", C'era una volta a… Hollywood (2019)
+http://casabasel.webhop.me:12000/italiano/2019/17/C.Era.Una.Volta.A.Hollywood.2019.mkv
+#EXTINF: -1 group-title="FILM", Il re leone (2019)
+http://casabasel.webhop.me:12000/italiano/2019/13/Il.Re.Leone.2019.mkv
+#EXTINF: -1 group-title="FILM", Rambo: Last Blood (2019)
+http://casabasel.webhop.me:12000/italiano/2019/20/Rambo.V.Last.Blood.2019.mkv
+#EXTINF: -1 group-title="FILM", Dora e la città perduta (2019)
+http://casabasel.webhop.me:12000/italiano/2019/18/Dora.e.la.citta.perduta.2019.mkv
+#EXTINF: -1 group-title="FILM", Attacco al potere 3 - Angel Has Fallen (2019)
+http://casabasel.webhop.me:12000/italiano/2019/19/Attacco.Al.Potere.3.2019.mkv
+#EXTINF: -1 group-title="FILM", Angry Birds 2 - Nemici amici per sempre (2019)
+http://casabasel.webhop.me:12000/italiano/2019/18/Angry.Birds.2.Nemici.amici.per.sempre.2019.mkv
+#EXTINF: -1 group-title="FILM", Hole - L'abisso (2019)
+http://casabasel.webhop.me:12000/italiano/2019/20/Hole.L.Abisso.2019.mkv
+#EXTINF: -1 group-title="FILM", Billionaire Boys Club (2018)
+http://casabasel.webhop.me:12000/italiano/2019/19/Billionaire.Boys.Club.2018.mkv
+#EXTINF: -1 group-title="FILM", Tolkien (2019)
+http://casabasel.webhop.me:12000/italiano/2019/13/Tolkien.2019.mkv
+#EXTINF: -1 group-title="FILM", Teen Titans Go! vs. Teen Titans (2019)
+http://casabasel.webhop.me:12000/italiano/2019/20/Teen.Titans.Go.Vs.Teen.Titans.2019.mkv
+#EXTINF: -1 group-title="FILM", Birba - Micio combinaguai
+http://casabasel.webhop.me:12000/italiano/2019/15/Birba.Micio.combinaguai.2018.mkv
+#EXTINF: -1 group-title="FILM", Toy Story 4
+http://casabasel.webhop.me:12000/italiano/2019/13/Toy.Story.4.2019.mkv
+#EXTINF: -1 group-title="FILM", Pets 2 - Vita da animali
+http://casabasel.webhop.me:12000/italiano/2019/12/The.Secret.Life.of.Pets.2.2019.mkv
+#EXTINF: -1 group-title="FILM", Batman: Hush
+http://casabasel.webhop.me:12000/italiano/2019/12/Batman.Hush.2019.mkv
+#EXTINF: -1 group-title="FILM", The LEGO Movie 2 - Una nuova avventura
+http://casabasel.webhop.me:12000/italiano/2019/06/The.Lego.Movie.2.Una.Nuova.Avventura.2019.mkv
+#EXTINF: -1 group-title="FILM", Teen Titans Go! Il film
+http://casabasel.webhop.me:12000/italiano/2018/11/Teen.Titans.Go.To.The.Movie.2018.mkv
+#EXTINF: -1 group-title="FILM", Taddeo l'esploratore e il segreto di re Mida
+http://casabasel.webhop.me:12000/italiano/2017/09/Taddeol.Esploratore.E.Il.Segreto.Di.Re.Mida.2017.mkv
+#EXTINF: -1 group-title="FILM", Suicide Squad - Un inferno da scontare
+http://casabasel.webhop.me:12000/italiano/2018/06/Suicide.Squad.Un.Inferno.Da.Scontare.2018.mkv
+#EXTINF: -1 group-title="FILM", una zebra alla riscossa
+http://casabasel.webhop.me:12000/tedesco/05/Striscia.una.zebra.alla.riscossa-2005.ITA.DVDRip.AC3.-Silvan.avi
+#EXTINF: -1 group-title="FILM", Scooby-Doo! & Batman: Il caso irrisolto
+http://casabasel.webhop.me:12000/italiano/2019/01/Scooby.Doo.and.Batman.Il.caso.irrisolto.2018.mkv
+#EXTINF: -1 group-title="FILM", Ritorno al Bosco dei 100 Acri
+http://casabasel.webhop.me:12000/italiano/2018/12/Ritorno.al.Bosco.dei.100.Acri.2018.mkv
+#EXTINF: -1 group-title="FILM", Rex - Un Cucciolo a Palazzo
+http://casabasel.webhop.me:12000/italiano/2019/08/Rex.Un.cucciolo.a.palazzo.2019.mkv
+#EXTINF: -1 group-title="FILM", Ralph spacca Internet - 2018
+http://casabasel.webhop.me:12000/italiano/2019/04/Ralph.Spacca.Internet.2018.mkv
+#EXTINF: -1 group-title="FILM", Peter Rabbit
+http://casabasel.webhop.me:12000/italiano/2018/06/Peter.Rabbit.2018.mkv
+#EXTINF: -1 group-title="FILM", Paddington 2
+http://casabasel.webhop.me:12000/italiano/2017/06/Paddington.2.2017.avi
+#EXTINF: -1 group-title="FILM", Oceania
+http://casabasel.webhop.me:12000/italiano/2019/03/oceania.avi
+#EXTINF: -1 group-title="FILM", Next Gen
+http://casabasel.webhop.me:12000/italiano/2018/09/Next.Gen.2018.mkv
+#EXTINF: -1 group-title="FILM", Mobile Suit Gundam - The Origin VI - Rise Of The Red Comet
+http://casabasel.webhop.me:12000/italiano/2018/02/Mobile.Suit.Gundam.Thunderbolt.The.Movie.Bandit.Flower.2018.mkv
+#EXTINF: -1 group-title="FILM", Mirai
+http://casabasel.webhop.me:12000/italiano/2019/06/Mirai.2018.mkv
+#EXTINF: -1 group-title="FILM", Mazinga Z: Infinity
+http://casabasel.webhop.me:12000/italiano/2017/08/Mazinga.Z.Infinity.2017.mkv
+#EXTINF: -1 group-title="FILM", Mary e il fiore della strega
+http://casabasel.webhop.me:12000/italiano/2018/10/Mary.e.il.Fiore.della.Strega.2017.mkv
+#EXTINF: -1 group-title="FILM", Luis e gli Alieni
+http://casabasel.webhop.me:12000/italiano/2018/11/Luis.e.gli.alieni.2018.mkv
+#EXTINF: -1 group-title="FILM", Leo Da Vinci - Missione Monna Lisa
+http://casabasel.webhop.me:12000/italiano/2018/07/Leo.Da.Vinci.Missione.Monna.Lisa.2017.mkv
+#EXTINF: -1 group-title="FILM", L'isola dei cani
+http://casabasel.webhop.me:12000/italiano/2018/07/L.isola.dei.cani.2018.mkv
+#EXTINF: -1 group-title="FILM", L'Ape Maia - Le Olimpiadi di miele
+http://casabasel.webhop.me:12000/italiano/2019/01/L.Ape.Maia.Le.Olimpiadi.Di.Miele.2018.mkv
+#EXTINF: -1 group-title="FILM", È arrivato il Broncio
+http://casabasel.webhop.me:12000/italiano/2018/06/E.arrivato.il.Broncio.2018.mkv
+#EXTINF: -1 group-title="FILM", Il Grinch
+http://casabasel.webhop.me:12000/italiano/2019/04/Il.Grinch.2018.mkv
+#EXTINF: -1 group-title="FILM", I primitivi
+http://casabasel.webhop.me:12000/italiano/2018/06/I.Primitivi.Film.2018.mkv
+#EXTINF: -1 group-title="FILM", Hotel Transylvania 3 - Una vacanza mostruosa
+http://casabasel.webhop.me:12000/italiano/2018/11/Hotel.Transylvania.3.Una.vacanza.mostruosa.2018.mkv
+#EXTINF: -1 group-title="FILM", Gli eroi del Natale
+http://casabasel.webhop.me:12000/italiano/2018/12/Gli.eroi.del.Natale.2017.mkv
+#EXTINF: -1 group-title="FILM", Gatta Cenerentola
+http://casabasel.webhop.me:12000/italiano/2017/animazione/01/Gatta.Cenerentola.2017.mkv
+#EXTINF: -1 group-title="FILM", Emoji - Accendi le emozioni (2017)
+http://casabasel.webhop.me:12000/italiano/2017/animazione/Emoji.Accendi.Le.Emozioni.2017.mkv
+#EXTINF: -1 group-title="FILM", Dragon Trainer - Il mondo nascosto
+http://casabasel.webhop.me:12000/italiano/2019/06/Dragon.Trainer.Il.Mondo.Nascosto.2019.mkv
+#EXTINF: -1 group-title="FILM", Dragon Trainer 2
+http://casabasel.webhop.me:12000/italiano/2019/07/Dragon.Trainer.2.2014.mkv
+#EXTINF: -1 group-title="FILM", Dragon Trainer
+http://casabasel.webhop.me:12000/italiano/2019/07/Dragon.Trainer.2010.mkv
+#EXTINF: -1 group-title="FILM", Dragon Ball Super: Broly
+http://casabasel.webhop.me:12000/italiano/2019/09/Dragon.Ball.Super.Broly.2018.mkv
+#EXTINF: -1 group-title="FILM", Doraemon - Il Film - Nobita e la grande avventura in Antartide
+http://casabasel.webhop.me:12000/italiano/2018/10/Doraemon.Il.Film.Nobita.ela.grande.avventura.in.Antartide.2017.mkv
+#EXTINF: -1 group-title="FILM", Dilili a Parigi
+http://casabasel.webhop.me:12000/italiano/2019/11/Dilili.A.Parigi.2018.mkv
+#EXTINF: -1 group-title="FILM", Cars 3
+http://casabasel.webhop.me:12000/italiano/2017/02/Cars.3.2017.mkv
+#EXTINF: -1 group-title="FILM", C'era una volta il Principe Azzurro
+http://casabasel.webhop.me:12000/italiano/2019/09/C.era.una.volta.il.Principe.Azzurro.2018.mkv
+#EXTINF: -1 group-title="FILM", Bumblebee
+http://casabasel.webhop.me:12000/italiano/2019/05/Bumblebee.mkv
+#EXTINF: -1 group-title="FILM", Blame!
+http://casabasel.webhop.me:12000/italiano/2017/animazione/01/Blame.2017.mkv
+#EXTINF: -1 group-title="FILM", Bigfoot junior
+http://casabasel.webhop.me:12000/italiano/2017/11/Bigfoot.junior.2017.mkv
+#EXTINF: -1 group-title="FILM", Big Fish & Begonia
+http://casabasel.webhop.me:12000/italiano/2018/09/Big.Fish.And.Begonia.2018.mkv
+#EXTINF: -1 group-title="FILM", Barbie nel mondo dei videogame
+http://casabasel.webhop.me:12000/italiano/2017/08/Barbie.Video.Game.Hero.2017.mkv
+#EXTINF: -1 group-title="FILM", Baffo & Biscotto - Missione Spaziale
+http://casabasel.webhop.me:12000/italiano/2019/03/Baffo.E.Biscotto.Missione.Spaziale.2018.mkv
+#EXTINF: -1 group-title="FILM", Asterix e il segreto della pozione magica
+http://casabasel.webhop.me:12000/italiano/2019/09/Asterix.e.il.Segreto.della.Pozione.Magica.2019.mkv
+#EXTINF: -1 group-title="FILM", A spasso con Willy
+http://casabasel.webhop.me:12000/italiano/2019/11/A.spasso.con.Willy.2019.mkv
+#EXTINF: -1 group-title="FILM", Yesterday
+http://casabasel.webhop.me:12000/italiano/2019/15/Yesterday.2019.mkv
+#EXTINF: -1 group-title="FILM", Restiamo amici
+http://casabasel.webhop.me:12000/italiano/2019/15/Restiamo.Amici.2019.mkv
+#EXTINF: -1 group-title="FILM", I fratelli Sisters
+http://casabasel.webhop.me:12000/italiano/2019/15/I.Fratelli.Sisters.2018.mkv
+#EXTINF: -1 group-title="FILM", Ti presento Patrick
+http://casabasel.webhop.me:12000/italiano/2019/14/Ti.presento.Patrick.2018.mkv
+#EXTINF: -1 group-title="FILM", Sempre amici
+http://casabasel.webhop.me:12000/italiano/2019/14/Sempre.Amici.2017.mkv
+#EXTINF: -1 group-title="FILM", Scappo a casa
+http://casabasel.webhop.me:12000/italiano/2019/14/Scappo.A.Casa.2019.mkv
+#EXTINF: -1 group-title="FILM", Arrivederci professore
+http://casabasel.webhop.me:12000/italiano/2019/14/Arrivederci.Professore.2019.mkv
+#EXTINF: -1 group-title="FILM", La famiglia Addams
+http://casabasel.webhop.me:12000/italiano/2019/13/La.famiglia.Addams.1991.mkv
+#EXTINF: -1 group-title="FILM", 10 giorni senza mamma
+http://casabasel.webhop.me:12000/italiano/2019/12/10.Giorni.Senza.Mamma.2019.mkv
+#EXTINF: -1 group-title="FILM", Attenti al gorilla
+http://casabasel.webhop.me:12000/italiano/2019/06/attenti.al.gorilla.mkv
+#EXTINF: -1 group-title="FILM", What Men Want - Quello che gli uomini vogliono
+http://casabasel.webhop.me:12000/italiano/2019/07/What.Men.Want.Quello.che.gli.uomini.vogliono.2019.mkv
+#EXTINF: -1 group-title="FILM", Un'avventura
+http://casabasel.webhop.me:12000/italiano/2019/09/Un.avventura.2019.mkv
+#EXTINF: -1 group-title="FILM", Truffatori in erba
+http://casabasel.webhop.me:12000/italiano/2019/09/Truffatori.In.Erba.2018.mkv
+#EXTINF: -1 group-title="FILM", Shazam!
+http://casabasel.webhop.me:12000/italiano/2019/09/Shazam%21.2019.mkv
+#EXTINF: -1 group-title="FILM", Remi
+http://casabasel.webhop.me:12000/italiano/2019/08/Remi.2018.mkv
+#EXTINF: -1 group-title="FILM", Non sposate le mie figlie 2
+http://casabasel.webhop.me:12000/italiano/2019/09/Non.sposate.le.mie.figlie.2.2019.mkv
+#EXTINF: -1 group-title="FILM", Non è romantico?
+http://casabasel.webhop.me:12000/italiano/2019/08/Non.e.romantico.2019.mkv
+#EXTINF: -1 group-title="FILM", Momenti di trascurabile felicità
+http://casabasel.webhop.me:12000/italiano/2019/09/Momenti.Di.Trascurabile.Felicita.2019.mkv
+#EXTINF: -1 group-title="FILM", Modalità aereo
+http://casabasel.webhop.me:12000/italiano/2019/08/Modalit.a.Aereo.2018.mkv
+#EXTINF: -1 group-title="FILM", La piccola boss
+http://casabasel.webhop.me:12000/italiano/2019/11/La.Piccola.Boss.2019.mkv
+#EXTINF: -1 group-title="FILM", Il mio capolavoro
+http://casabasel.webhop.me:12000/italiano/2019/08/Il.mio.capolavoro.2018.mkv
+#EXTINF: -1 group-title="FILM", Il grande spirito
+http://casabasel.webhop.me:12000/italiano/2019/11/Il.Grande.Spirito.2019.mkv
+#EXTINF: -1 group-title="FILM", Il campione
+http://casabasel.webhop.me:12000/italiano/2019/11/Il.Campione.2019.mkv
+#EXTINF: -1 group-title="FILM", Dolceroma
+http://casabasel.webhop.me:12000/italiano/2019/10/DolceRoma.2019.mkv
+#EXTINF: -1 group-title="FILM", Book Club - Tutto Può Succedere
+http://casabasel.webhop.me:12000/italiano/2019/10/Book.Club.Tutto.Puo.Succedere.2018.mkv
+#EXTINF: -1 group-title="FILM", Troppa grazia
+http://casabasel.webhop.me:12000/italiano/2019/04/Troppa.Grazia.2018.mkv
+#EXTINF: -1 group-title="FILM", Sorry to Bother You
+http://casabasel.webhop.me:12000/italiano/2019/06/Sorry.to.Bother.You.2018.mkv
+#EXTINF: -1 group-title="FILM", Quasi Nemici - L'importante è avere ragione
+http://casabasel.webhop.me:12000/italiano/2019/03/Quasi.nemici.l.importante.e.avere.ragione.2017.mkv
+#EXTINF: -1 group-title="FILM", Pupazzi senza gloria
+http://casabasel.webhop.me:12000/italiano/2019/03/Pupazzi.senza.gloria.2018.mkv
+#EXTINF: -1 group-title="FILM", Notti magiche
+http://casabasel.webhop.me:12000/italiano/2019/03/Notti.Magiche.2018.mkv
+#EXTINF: -1 group-title="FILM", Non ci resta che vincere
+http://casabasel.webhop.me:12000/italiano/2019/04/Non.ci.resta.che.vincere.2018.mkv
+#EXTINF: -1 group-title="FILM", Non ci resta che il crimine
+http://casabasel.webhop.me:12000/italiano/2019/06/Non.ci.resta.che.il.crimine.2019.mkv
+#EXTINF: -1 group-title="FILM", Moschettieri del re - La penultima missione
+http://casabasel.webhop.me:12000/italiano/2019/05/I.Tre.Moschettieri.mkv
+#EXTINF: -1 group-title="FILM", Morto tra una settimana... O ti ridiamo i soldi
+http://casabasel.webhop.me:12000/italiano/2019/04/Morto.Tra.Una.Settimana.O.Ti.Ridiamo.I.soldi.2018.mkv
+#EXTINF: -1 group-title="FILM", La befana vien di notte
+http://casabasel.webhop.me:12000/italiano/2019/06/La.Befana.vien.di.notte.2018.mkv
+#EXTINF: -1 group-title="FILM", Instant Family
+http://casabasel.webhop.me:12000/italiano/2019/06/Instant.Family.2018.mkv
+#EXTINF: -1 group-title="FILM", Inganni Online
+http://casabasel.webhop.me:12000/italiano/2019/02/Inganni.online.2018.mkv
+#EXTINF: -1 group-title="FILM", Holmes & Watson
+http://casabasel.webhop.me:12000/italiano/2019/06/Holmes.And.Watson.2018.mkv
+#EXTINF: -1 group-title="FILM", Green Book
+http://casabasel.webhop.me:12000/italiano/2019/06/Green.Book.2018.mkv
+#EXTINF: -1 group-title="FILM", Benvenuti a Marwen
+http://casabasel.webhop.me:12000/italiano/2019/06/Benvenuti.A.Marwen.2018.mkv
+#EXTINF: -1 group-title="FILM", È solo l'inizio
+http://casabasel.webhop.me:12000/italiano/2019/04/%C3%88.solo.l.inizio.2017.mkv
+#EXTINF: -1 group-title="FILM", Achille Tarallo
+http://casabasel.webhop.me:12000/italiano/2019/02/Achille.Tarallo.2018.mkv
+#EXTINF: -1 group-title="FILM", 7 uomini a mollo
+http://casabasel.webhop.me:12000/italiano/2019/05/7.Uomini.A.Mollo.2018.mkv
+#EXTINF: -1 group-title="FILM", Terapia di coppia per amanti
+http://casabasel.webhop.me:12000/tedesco/05/Terapia.Di.Coppia.Per.Amanti.2017.iTALiAN.AC3.DVDRip.XviD-GBM.avi
+#EXTINF: -1 group-title="FILM", Nove lune e mezza
+http://casabasel.webhop.me:12000/tedesco/05/Nove.Lune.E.Mezza.2017.iTALiAN.AC3.DVDRip.XviD-GBM.avi
+#EXTINF: -1 group-title="FILM", Non è vero ma ci credo
+http://casabasel.webhop.me:12000/italiano/2019/01/Non.E.Vero.Ma.Ci.Credo.2018.mkv
+#EXTINF: -1 group-title="FILM", La scuola serale
+http://casabasel.webhop.me:12000/italiano/2019/01/La.Scuola.Serale.2018.mkv
+#EXTINF: -1 group-title="FILM", La fuitina sbagliata
+http://casabasel.webhop.me:12000/italiano/2019/01/La.Fuitina.Sbagliata.2018.mkv
+#EXTINF: -1 group-title="FILM", Johnny English colpisce ancora
+http://casabasel.webhop.me:12000/italiano/2019/01/Johnny.English.Colpisce.Ancora.2018.mkv
+#EXTINF: -1 group-title="FILM", Dog Days
+http://casabasel.webhop.me:12000/italiano/2019/01/Dog.Days.2018.mkv
+#EXTINF: -1 group-title="FILM", Uncle Drew
+http://casabasel.webhop.me:12000/italiano/2018/09/Uncle.Drew.2018.mkv
+#EXTINF: -1 group-title="FILM", Una vita spericolata
+http://casabasel.webhop.me:12000/italiano/2018/09/Una.Vita.Spericolata.2018.mkv
+#EXTINF: -1 group-title="FILM", Tutto ciò che voglio
+http://casabasel.webhop.me:12000/italiano/2018/12/Tutto.Cio.Che.Voglio.2017.mkv
+#EXTINF: -1 group-title="FILM", Tu mi nascondi qualcosa
+http://casabasel.webhop.me:12000/italiano/2018/07/Tu.mi.nascondi.qualcosa.2018.mkv
+#EXTINF: -1 group-title="FILM", Tito e gli alieni
+http://casabasel.webhop.me:12000/italiano/2018/11/Tito.E.Gli.Alieni.mkv
+#EXTINF: -1 group-title="FILM", The Party
+http://casabasel.webhop.me:12000/italiano/2018/10/The.Party.2017.mkv
+#EXTINF: -1 group-title="FILM", The Bachelors - Un nuovo inizio
+http://casabasel.webhop.me:12000/italiano/2018/12/The.Bachelors.2017.mkv
+#EXTINF: -1 group-title="FILM", Sierra Burgess è una sfigata
+http://casabasel.webhop.me:12000/italiano/2018/09/Sierra.Burgess.e.una.sfigata.2018.mkv
+#EXTINF: -1 group-title="FILM", Si muore tutti democristiani
+http://casabasel.webhop.me:12000/italiano/2018/07/Si.muore.tutti.democristiani.2017.mkv
+#EXTINF: -1 group-title="FILM", Show dogs - Entriamo in scena
+http://casabasel.webhop.me:12000/italiano/2018/07/Show.Dogs.entriamo.in.scena.2018.mkv
+#EXTINF: -1 group-title="FILM", Prendimi! - La storia vera più assurda di sempre
+http://casabasel.webhop.me:12000/italiano/2018/12/Prendimi.2018.mkv
+#EXTINF: -1 group-title="FILM", Overboard
+http://casabasel.webhop.me:12000/italiano/2018/11/Overboard.2018.mkv
+#EXTINF: -1 group-title="FILM", Metti la nonna in freezer
+http://casabasel.webhop.me:12000/italiano/2018/06/Metti.la.nonna.in.freezer.2018.mkv
+#EXTINF: -1 group-title="FILM", Mamma Mia! Ci risiamo
+http://casabasel.webhop.me:12000/italiano/2018/11/Mamma.Mia.Ci.Risiamo.2018.mkv
+#EXTINF: -1 group-title="FILM", Le leggi della termodinamica
+http://casabasel.webhop.me:12000/italiano/2018/09/Le.leggi.della.termodinamica.2018.mkv
+#EXTINF: -1 group-title="FILM", La truffa è servita
+http://casabasel.webhop.me:12000/italiano/2018/10/The.Brits.are.Coming.La.Truffa.e.Servita.2018.mkv
+#EXTINF: -1 group-title="FILM", L'incredibile viaggio del fachiro
+http://casabasel.webhop.me:12000/italiano/2018/09/L.incredibile.Viaggio.Del.Fachiro.2018.mkv
+#EXTINF: -1 group-title="FILM", Io sono Tempesta
+http://casabasel.webhop.me:12000/italiano/2018/06/Io.Sono.Tempesta.2018.mkv
+#EXTINF: -1 group-title="FILM", Giù le mani dalle nostre figlie
+http://casabasel.webhop.me:12000/italiano/2018/06/Gi%C3%B9.le.mani.dalle.nostre.figlie.2018.mkv
+#EXTINF: -1 group-title="FILM", Famiglia allargata
+http://casabasel.webhop.me:12000/italiano/2018/07/Famiglia.Allarga.2017.mkv
+#EXTINF: -1 group-title="FILM", Destinazione matrimonio
+http://casabasel.webhop.me:12000/italiano/2018/12/Destinazione.Matrimonio.2018.mkv
+#EXTINF: -1 group-title="FILM", Dacci un taglio
+http://casabasel.webhop.me:12000/italiano/2018/09/Dacci.un.taglio..2018.mkv
+#EXTINF: -1 group-title="FILM", Christmas & Co.
+http://casabasel.webhop.me:12000/italiano/2018/12/Christmas.e.Co.2017.mkv
+#EXTINF: -1 group-title="FILM", Bob & Marys - Criminali a domicilio
+http://casabasel.webhop.me:12000/italiano/2018/07/Bob.e.Marys.Criminali.A.Domicilio.2018.mkv
+#EXTINF: -1 group-title="FILM", Arrivano i prof
+http://casabasel.webhop.me:12000/italiano/2018/07/Arrivano.I.Prof.2018..mkv
+#EXTINF: -1 group-title="FILM", Amiche all'improvviso
+http://casabasel.webhop.me:12000/italiano/2018/10/Amiche.all.improvviso.2017.mkv
+#EXTINF: -1 group-title="FILM", ho ristretto mamma e papà!
+http://casabasel.webhop.me:12000/italiano/2018/09/Aiuto.ho.ristretto.mamma.e.papa.2018.mkv
+#EXTINF: -1 group-title="FILM", Action Point
+http://casabasel.webhop.me:12000/italiano/2018/07/Action.Point.2018.mkv
+#EXTINF: -1 group-title="FILM", A Modern Family
+http://casabasel.webhop.me:12000/italiano/2018/11/A.Modern.Family.2018.mkv
+#EXTINF: -1 group-title="FILM", Toc Toc
+http://casabasel.webhop.me:12000/italiano/2017/11/Toc.Toc.2017.mkv
+#EXTINF: -1 group-title="FILM", The Climb
+http://casabasel.webhop.me:12000/italiano/2017/08/Ascensione.2017.mkv
+#EXTINF: -1 group-title="FILM", The Clapper
+http://casabasel.webhop.me:12000/italiano/2017/11/The.Clapper.2017.mkv
+#EXTINF: -1 group-title="FILM", The Big Sick - Il matrimonio si può evitare... l'amore no
+http://casabasel.webhop.me:12000/italiano/2017/08/The.Big.Sick.2017.mkv
+#EXTINF: -1 group-title="FILM", Smetto quando voglio
+http://casabasel.webhop.me:12000/italiano/2017/02/Smetto.quando.voglio.2014.mkv
+#EXTINF: -1 group-title="FILM", Quanto basta
+http://casabasel.webhop.me:12000/italiano/2018/05/Quanto.basta.2018.mkv
+#EXTINF: -1 group-title="FILM", Poveri ma ricchissimi
+http://casabasel.webhop.me:12000/italiano/2017/08/Poveri.Ma.Ricchissimi.2017.mkv
+#EXTINF: -1 group-title="FILM", Made in Italy
+http://casabasel.webhop.me:12000/italiano/2018/02/Made.In.Italy.2018.mkv
+#EXTINF: -1 group-title="FILM", Lasciami per sempre
+http://casabasel.webhop.me:12000/italiano/2017/07/Lasciami.Per.Sempre.2017.mkv
+#EXTINF: -1 group-title="FILM", La vita in comune
+http://casabasel.webhop.me:12000/italiano/2017/07/La.Vita.In.Comune.2017.mkv
+#EXTINF: -1 group-title="FILM", La casa di famiglia
+http://casabasel.webhop.me:12000/italiano/2017/07/La.casa.di.famiglia.2017.mkv
+#EXTINF: -1 group-title="FILM", L'unica
+http://casabasel.webhop.me:12000/italiano/2018/01/L.unica.2018.mkv
+#EXTINF: -1 group-title="FILM", Game Night - Indovina chi muore stasera?
+http://casabasel.webhop.me:12000/italiano/2018/06/Game.Night.Indovina.chi.muore.stasera.2018.mkv
+#EXTINF: -1 group-title="FILM", Come un gatto in tangenziale
+http://casabasel.webhop.me:12000/italiano/2017/11/Come.Un.Gatto.In.Tangenziale.2017.mkv
+#EXTINF: -1 group-title="FILM", Cercasi fidanzato per vacanza
+http://casabasel.webhop.me:12000/italiano/2017/07/Cercasi.fidanzato.per.vacanza.2017.mkv
+#EXTINF: -1 group-title="FILM", Benedetta follia
+http://casabasel.webhop.me:12000/italiano/2018/02/Benedetta.Follia.2018.mkv
+#EXTINF: -1 group-title="FILM", Bad Moms 2 - Mamme molto più cattive
+http://casabasel.webhop.me:12000/italiano/2017/08/Bad.Moms.2.Mamme.Molto.Piu.Cattive.2017.mkv
+#EXTINF: -1 group-title="FILM", Amori che non sanno stare al mondo
+http://casabasel.webhop.me:12000/italiano/2017/07/Amori.che.non.sanno.stare.al.mondo.2017.mkv
+#EXTINF: -1 group-title="FILM", 50 primavere
+http://casabasel.webhop.me:12000/italiano/2017/08/50.primavere.mkv
+#EXTINF: -1 group-title="FILM", 40 sono i nuovi 20
+http://casabasel.webhop.me:12000/italiano/2017/04/40.sono.i.nuovi.20.2017.mkv
+#EXTINF: -1 group-title="FILM", The Square
+http://casabasel.webhop.me:12000/italiano/2017/07/The.Square.2017.mkv
+#EXTINF: -1 group-title="FILM", Fun Mom Dinner
+http://casabasel.webhop.me:12000/italiano/2017/02/Fun.Mom.Dinner.2017.mkv
+#EXTINF: -1 group-title="FILM", Un profilo per due
+http://casabasel.webhop.me:12000/italiano/2017/01/Un.profilo.per.due.2017.mkv
+#EXTINF: -1 group-title="FILM", Tavolo 19
+http://casabasel.webhop.me:12000/italiano/2017/01/Tavolo.19.2017.mkv
+#EXTINF: -1 group-title="FILM", I Don't Feel at Home in This World Anymore
+http://casabasel.webhop.me:12000/italiano/2017/commedia/I.Dont.Feel.at.Home.in.This.World.Anymore.2017.mkv
+#EXTINF: -1 group-title="FILM", Ladre per caso
+http://casabasel.webhop.me:12000/italiano/2017/commedia/Ladre.Per.Caso.2017.mkv
+#EXTINF: -1 group-title="FILM", Fast & Furious - Hobbs & Shaw
+http://casabasel.webhop.me:12000/italiano/2019/15/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.mkv
+#EXTINF: -1 group-title="FILM", Escape Plan 3 - L'ultima sfida
+http://casabasel.webhop.me:12000/italiano/2019/15/Escape.Plan.3.L.Ultima.Sfida.2019.mkv
+#EXTINF: -1 group-title="FILM", Shaft
+http://casabasel.webhop.me:12000/italiano/2019/14/Shaft.2019.mkv
+#EXTINF: -1 group-title="FILM", Missione vendetta
+http://casabasel.webhop.me:12000/italiano/2019/14/Missione.Vendetta.2019.mkv
+#EXTINF: -1 group-title="FILM", Spider-Man: Far from Home
+http://casabasel.webhop.me:12000/italiano/2019/13/Spider-Man.Far.From.Home.2019.mkv
+#EXTINF: -1 group-title="FILM", Men in Black: International
+http://casabasel.webhop.me:12000/italiano/2019/13/Men.In.Black.International.2019.mkv
+#EXTINF: -1 group-title="FILM", El Camino - Il film di Breaking Bad
+http://casabasel.webhop.me:12000/italiano/2019/13/El.Camino.A.Breaking.Bad.Movie.2019.mkv
+#EXTINF: -1 group-title="FILM", Godzilla II - King of the Monsters
+http://casabasel.webhop.me:12000/italiano/2019/12/Godzilla.2.King.of.the.Monsters.2019.mkv
+#EXTINF: -1 group-title="FILM", Il ragazzo che diventerà re
+http://casabasel.webhop.me:12000/italiano/2019/12/Il.Ragazzo.Che.Diventera.Re.2019.mkv
+#EXTINF: -1 group-title="FILM", X-Men - Dark Phoenix
+http://casabasel.webhop.me:12000/italiano/2019/12/Dark.Phoenix.2019.mkv
+#EXTINF: -1 group-title="FILM", Upgrade
+http://casabasel.webhop.me:12000/italiano/2019/03/Upgrade.2018.mkv
+#EXTINF: -1 group-title="FILM", The veil - La rivincita di un guerriero
+http://casabasel.webhop.me:12000/italiano/2019/08/The.Veil.La.Rivincita.di.un.Guerriero.2017.mkv
+#EXTINF: -1 group-title="FILM", The Scythian – I lupi di Ares
+http://casabasel.webhop.me:12000/italiano/2018/05/Scythian.I.Lupi.Di.Ares.2018.mkv
+#EXTINF: -1 group-title="FILM", Presa mortale 5 - Scontro letale
+http://casabasel.webhop.me:12000/italiano/2017/azione/Presa.Mortale.5.Scontro.Letale.The.Marine.5.2017.mkv
+#EXTINF: -1 group-title="FILM", The Bouncer
+http://casabasel.webhop.me:12000/italiano/2019/05/The.Bouncer.2018.mkv
+#EXTINF: -1 group-title="FILM", The Adventurers - Gli avventurieri
+http://casabasel.webhop.me:12000/italiano/2017/01/The.adventurers.gli.avventurieri.2017.mkv
+#EXTINF: -1 group-title="FILM", SuperFly
+http://casabasel.webhop.me:12000/italiano/2019/01/Superfly.2018.mkv
+#EXTINF: -1 group-title="FILM", Stratton - Forze speciali
+http://casabasel.webhop.me:12000/italiano/2017/01/Stratton.Forze.speciali.2017..mkv
+#EXTINF: -1 group-title="FILM", Spider-Man - Un nuovo universo
+http://casabasel.webhop.me:12000/italiano/2019/05/Spider.Man.Into.the.Spider.Verse.2018.mkv
+#EXTINF: -1 group-title="FILM", Shark - Il primo squalo
+http://casabasel.webhop.me:12000/italiano/2018/11/Shark.Il.primo.squalo.2018.mkv
+#EXTINF: -1 group-title="FILM", Ride
+http://casabasel.webhop.me:12000/italiano/2019/04/Ride.2018.mkv
+#EXTINF: -1 group-title="FILM", RenegadES : Commando d'assalto
+http://casabasel.webhop.me:12000/italiano/2017/04/Renegades.commando.d.assalto.2017.mkv
+#EXTINF: -1 group-title="FILM", Rampage - Furia animale
+http://casabasel.webhop.me:12000/italiano/2018/06/Rampage.Furia.Animale.2018.mkv
+#EXTINF: -1 group-title="FILM", Pokémon Detective Pikachu
+http://casabasel.webhop.me:12000/italiano/2019/11/Pokemon.Detective.Pikachu.2019.mkv
+#EXTINF: -1 group-title="FILM", Pacific Rim - La rivolta
+http://casabasel.webhop.me:12000/italiano/2018/06/Pacific.Rim.2.La.rivolta.2018.mkv
+#EXTINF: -1 group-title="FILM", Overdrive
+http://casabasel.webhop.me:12000/italiano/2017/azione/Overdrive.2017.mkv
+#EXTINF: -1 group-title="FILM", Outrage Coda
+http://casabasel.webhop.me:12000/italiano/2017/11/Outrage.Coda.2017.mkv
+#EXTINF: -1 group-title="FILM", Operation Red Sea
+http://casabasel.webhop.me:12000/italiano/2018/11/Operation.Red.Sea.2018.mkv
+#EXTINF: -1 group-title="FILM", Mission: Impossible - Fallout
+http://casabasel.webhop.me:12000/italiano/2018/12/Mission.Impossible.Fallout.2018.mkv
+#EXTINF: -1 group-title="FILM", Maze Runner - La rivelazione
+http://casabasel.webhop.me:12000/italiano/2018/02/Maze.Runner.La.Rivelazione.2018.mkv
+#EXTINF: -1 group-title="FILM", Manhunt
+http://casabasel.webhop.me:12000/italiano/2018/10/Manhunt.2017.mkv
+#EXTINF: -1 group-title="FILM", Le ultime 24 ore
+http://casabasel.webhop.me:12000/italiano/2018/12/Le.ultime.24.ore.2017.mkv
+#EXTINF: -1 group-title="FILM", La Terra trema
+http://casabasel.webhop.me:12000/italiano/2019/08/Global.Meltdown.La.terra.trema.2017.mkv
+#EXTINF: -1 group-title="FILM", L'uomo sul treno - The Commuter
+http://casabasel.webhop.me:12000/italiano/2018/02/L.Uomo.Sul.Treno.The.Commuter.2018.mkv
+#EXTINF: -1 group-title="FILM", L'uomo dal cuore di ferro
+http://casabasel.webhop.me:12000/italiano/2019/07/L.uomo.dal.cuore.di.ferro.2019.mkv
+#EXTINF: -1 group-title="FILM", Kingsman: Il cerchio d'oro
+http://casabasel.webhop.me:12000/italiano/2017/01/Kingsman.Il.Cerchio.D.Oro.2017.mkv
+#EXTINF: -1 group-title="FILM", Jurassic World – Il regno distrutto
+http://casabasel.webhop.me:12000/italiano/2018/09/Jurassic.World.Il.Regno.distrutto.2018.mkv
+#EXTINF: -1 group-title="FILM", Jumanji: Benvenuti nella giungla
+http://casabasel.webhop.me:12000/italiano/2017/08/Jumanji.Benvenuti.Nella.Giugla.2017.mkv
+#EXTINF: -1 group-title="FILM", Instant Death
+http://casabasel.webhop.me:12000/italiano/2019/11/Instant.Death.2017.mkv
+#EXTINF: -1 group-title="FILM", In Full Bloom - I fiori della rabbia
+http://casabasel.webhop.me:12000/italiano/2019/09/In.Full.Bloom.2019.mkv
+#EXTINF: -1 group-title="FILM", Il ragazzo che diventerà re
+http://casabasel.webhop.me:12000/italiano/2019/08/Il.Ragazzo.Che.Diventera.Re.2019.mkv
+#EXTINF: -1 group-title="FILM", Il primo re
+http://casabasel.webhop.me:12000/italiano/2019/07/Il.Primo.Re.2019.mkv
+#EXTINF: -1 group-title="FILM", Il giustiziere della notte
+http://casabasel.webhop.me:12000/italiano/2018/06/Il.Giustiziere.della.Notte.2018.mkv
+#EXTINF: -1 group-title="FILM", Iceman - I cancelli del Tempo
+http://casabasel.webhop.me:12000/italiano/2019/04/Iceman.I.Cancelli.Del.Tempo.2018.mkv
+#EXTINF: -1 group-title="FILM", Gun Shy - Eroe per caso
+http://casabasel.webhop.me:12000/italiano/2017/06/Gun.shy.2017.avi
+#EXTINF: -1 group-title="FILM", Man! (2018)
+http://casabasel.webhop.me:12000/italiano/2018/01/Game.Over.Man.2018.mkv
+#EXTINF: -1 group-title="FILM", Fuoco assassino 2
+http://casabasel.webhop.me:12000/italiano/2019/10/Fuoco.assassino.Backdraft.2.2019.mkv
+#EXTINF: -1 group-title="FILM", Fullmetal Alchemist
+http://casabasel.webhop.me:12000/italiano/2017/07/Fullmetal.Alchemist.2017.mkv
+#EXTINF: -1 group-title="FILM", Fottute!
+http://casabasel.webhop.me:12000/italiano/2017/azione/Fottute.2017.mkv
+#EXTINF: -1 group-title="FILM", First Kill
+http://casabasel.webhop.me:12000/italiano/2017/azione/First.Kill.2017.mkv
+#EXTINF: -1 group-title="FILM", Dredd - Il giudice dell'apocalisse
+http://casabasel.webhop.me:12000/italiano/2019/11/Dredd.Il.Giudice.Dell.Apocalisse.2012.mkv
+#EXTINF: -1 group-title="FILM", Deadpool 2
+http://casabasel.webhop.me:12000/italiano/2018/07/Deadpool.2.The.Super.Duper.Cut.2018.mkv
+#EXTINF: -1 group-title="FILM", Close
+http://casabasel.webhop.me:12000/italiano/2019/05/Close.mkv
+#EXTINF: -1 group-title="FILM", Captain Marvel
+http://casabasel.webhop.me:12000/italiano/2019/08/Captain.Marvel.2019.mkv
+#EXTINF: -1 group-title="FILM", Bushwick
+http://casabasel.webhop.me:12000/italiano/2017/11/Bushwick.2017.mkv
+#EXTINF: -1 group-title="FILM", Bright
+http://casabasel.webhop.me:12000/italiano/2017/01/Bright.2017.mkv
+#EXTINF: -1 group-title="FILM", Braven - Il coraggioso
+http://casabasel.webhop.me:12000/italiano/2018/11/Braven.2018.mkv
+#EXTINF: -1 group-title="FILM", Bleeding Steel - Eroe di acciaio
+http://casabasel.webhop.me:12000/italiano/2018/12/Bleeding.Steel.Eroe.Di.Acciaio.2017.mkv
+#EXTINF: -1 group-title="FILM", Avengers - Endgame
+http://casabasel.webhop.me:12000/italiano/2019/11/Avengers.Endgame.2019.mkv
+#EXTINF: -1 group-title="FILM", Avengers - Infinity War
+http://casabasel.webhop.me:12000/italiano/2018/05/Avengers.Infinity.War.2018.mkv
+#EXTINF: -1 group-title="FILM", Attrition
+http://casabasel.webhop.me:12000/italiano/2018/09/Attrition.2018.mkv
+#EXTINF: -1 group-title="FILM", Arsenal
+http://casabasel.webhop.me:12000/italiano/2017/azione/Arsenal.2017.mkv
+#EXTINF: -1 group-title="FILM", Alita - Angelo della battaglia
+http://casabasel.webhop.me:12000/italiano/2019/10/Alita.Angelo.Della.Battaglia.2019.mkv
+#EXTINF: -1 group-title="FILM", 211 - Rapina in corso
+http://casabasel.webhop.me:12000/italiano/2018/11/211.Rapina.in.Corso.2018.mkv
+#EXTINF: -1 group-title="FILM", Vikings - L'invasione dei Franchi
+http://casabasel.webhop.me:12000/italiano/2019/04/Vikings.L.invasione.dei.Franchi.2018.mkv
+#EXTINF: -1 group-title="FILM", Ready Player One
+http://casabasel.webhop.me:12000/italiano/2018/06/Ready.Player.One.2018.mkv
+#EXTINF: -1 group-title="FILM", Qua la zampa!
+http://casabasel.webhop.me:12000/italiano/2017/avventura/Qua.La.Zampa.2016.mkv
+#EXTINF: -1 group-title="FILM", Otzi - L'ultimo cacciatore
+http://casabasel.webhop.me:12000/italiano/2019/03/Otzi.L.ultimo.cacciatore.2017.mkv
+#EXTINF: -1 group-title="FILM", Nelle pieghe del tempo
+http://casabasel.webhop.me:12000/italiano/2018/05/Nelle.Pieghe.Del.Tempo.2018.mkv
+#EXTINF: -1 group-title="FILM", La principessa e il gigante
+http://casabasel.webhop.me:12000/italiano/2018/10/La.principessa.e.il.gigante.2017.mkv
+#EXTINF: -1 group-title="FILM", Jungle
+http://casabasel.webhop.me:12000/italiano/2017/08/Jungle.2017.mkv
+#EXTINF: -1 group-title="FILM", Il Re Scorpione - Il libro delle Anime
+http://casabasel.webhop.me:12000/italiano/2018/11/Il.re.Scorpione.Il.Libro.Delle.Anime.2018.mkv
+#EXTINF: -1 group-title="FILM", Belle & Sebastien - Amici per sempre
+http://casabasel.webhop.me:12000/italiano/2019/07/Belle.e.Sebastien.3.Amici.per.sempre.2018.mkv
+#EXTINF: -1 group-title="FILM", Annientamento
+http://casabasel.webhop.me:12000/italiano/2018/01/Annientamento.2018.mkv
+#EXTINF: -1 group-title="FILM", Welcome Home
+http://casabasel.webhop.me:12000/italiano/2019/15/Welcome.Home.2018.mkv
+#EXTINF: -1 group-title="FILM", The Intruder
+http://casabasel.webhop.me:12000/italiano/2019/15/The.Intruder.2019.mkv
+#EXTINF: -1 group-title="FILM", Hotel Artemis
+http://casabasel.webhop.me:12000/italiano/2019/15/Hotel.Artemis.2018.mkv
+#EXTINF: -1 group-title="FILM", Domino
+http://casabasel.webhop.me:12000/italiano/2019/15/Domino.2019.mkv
+#EXTINF: -1 group-title="FILM", Balloon - Il vento della libertà
+http://casabasel.webhop.me:12000/italiano/2019/15/Balloon.Il.Vento.Della.Liberta.2018.mkv
+#EXTINF: -1 group-title="FILM", Wolf Call - Minaccia in alto mare
+http://casabasel.webhop.me:12000/italiano/2019/14/Wolf.Call.Minaccia.In.Alto.Mare.2019.mkv
+#EXTINF: -1 group-title="FILM", Fractured
+http://casabasel.webhop.me:12000/italiano/2019/13/Fractured.2019.mkv
+#EXTINF: -1 group-title="FILM", Widows - Eredità criminale
+http://casabasel.webhop.me:12000/italiano/2019/01/Widows.Eredita.Criminale.2018.mkv
+#EXTINF: -1 group-title="FILM", Un uomo tranquillo
+http://casabasel.webhop.me:12000/italiano/2019/08/Un.uomo.tranquillo.2019.mkv
+#EXTINF: -1 group-title="FILM", Un piccolo favore
+http://casabasel.webhop.me:12000/italiano/2019/04/Un.Piccolo.Favore.2018.mkv
+#EXTINF: -1 group-title="FILM", Tutti lo sanno
+http://casabasel.webhop.me:12000/italiano/2019/03/Tutti.Lo.Sanno.2018.mkv
+#EXTINF: -1 group-title="FILM", Tutti i soldi del mondo
+http://casabasel.webhop.me:12000/italiano/2018/06/Tutti.I.Soldi.Del.Mondo.2017.mkv
+#EXTINF: -1 group-title="FILM", The Vanishing - Il mistero del faro
+http://casabasel.webhop.me:12000/italiano/2019/09/The.Vanishing.Il.Mistero.del.faro.2018.mkv
+#EXTINF: -1 group-title="FILM", Sotto sequestro
+http://casabasel.webhop.me:12000/italiano/2019/06/Sotto.sequestro.2018.mkv
+#EXTINF: -1 group-title="FILM", Searching
+http://casabasel.webhop.me:12000/italiano/2019/01/Searching.2018.mkv
+#EXTINF: -1 group-title="FILM", Robin Hood - L'origine della leggenda
+http://casabasel.webhop.me:12000/italiano/2019/03/Robin.Hood.L.origine.della.leggenda.2018.mkv
+#EXTINF: -1 group-title="FILM", Respiri
+http://casabasel.webhop.me:12000/italiano/2018/09/Respiri.2018.mkv
+#EXTINF: -1 group-title="FILM", Replicas
+http://casabasel.webhop.me:12000/italiano/2019/06/Replicas.2018.mkv
+#EXTINF: -1 group-title="FILM", Red Zone - 22 Miglia di Fuoco
+http://casabasel.webhop.me:12000/italiano/2019/04/Red.Zone.22.Miglia.Di.Fuoco.2018.mkv
+#EXTINF: -1 group-title="FILM", Red Sparrow
+http://casabasel.webhop.me:12000/italiano/2018/02/Red.Sparrow.2018.mkv
+#EXTINF: -1 group-title="FILM", Red Joan
+http://casabasel.webhop.me:12000/italiano/2019/11/Red.Joan.2018.mkv
+#EXTINF: -1 group-title="FILM", Proud Mary
+http://casabasel.webhop.me:12000/italiano/2018/05/Proud.Mary.2018.mkv
+#EXTINF: -1 group-title="FILM", Peppermint - L'angelo della vendetta
+http://casabasel.webhop.me:12000/italiano/2019/09/Peppermint.L.Angelo.della.Vendetta.2018.mkv
+#EXTINF: -1 group-title="FILM", Opera senza autore
+http://casabasel.webhop.me:12000/italiano/2019/05/Opera.senza.autore.mkv
+#EXTINF: -1 group-title="FILM", Omicidio al Cairo
+http://casabasel.webhop.me:12000/italiano/2017/11/Omicidio.Al.Cairo.2017.mkv
+#EXTINF: -1 group-title="FILM", November Criminals
+http://casabasel.webhop.me:12000/italiano/2019/01/November.Criminals.2017.mkv
+#EXTINF: -1 group-title="FILM", Non sono un assassino
+http://casabasel.webhop.me:12000/italiano/2019/11/Non.Sono.Un.Assassino.2019.mkv
+#EXTINF: -1 group-title="FILM", Mute
+http://casabasel.webhop.me:12000/italiano/2018/01/Mute.2018.mkv
+#EXTINF: -1 group-title="FILM", Miss Bala - Sola contro tutti
+http://casabasel.webhop.me:12000/italiano/2019/07/Miss.bala.2018.mkv
+#EXTINF: -1 group-title="FILM", Millennium - Quello che non uccide
+http://casabasel.webhop.me:12000/italiano/2019/01/Millennium.Quello.Che.Non.Uccide.2018.mkv
+#EXTINF: -1 group-title="FILM", Macchine mortali
+http://casabasel.webhop.me:12000/italiano/2019/05/Macchine.Mortali.2018.mkv
+#EXTINF: -1 group-title="FILM", Looking Glass
+http://casabasel.webhop.me:12000/italiano/2018/02/Looking.Glass%20.2018.mkv
+#EXTINF: -1 group-title="FILM", London Fields
+http://casabasel.webhop.me:12000/italiano/2019/09/London.Fields.2018.mkv
+#EXTINF: -1 group-title="FILM", Le Fidèle
+http://casabasel.webhop.me:12000/italiano/2018/12/Le.fidele.Una.vita.al.massimo.2017.mkv
+#EXTINF: -1 group-title="FILM", La bella e le bestie
+http://casabasel.webhop.me:12000/italiano/2019/08/La.bella.e.le.bestie.2017.mkv
+#EXTINF: -1 group-title="FILM", Josie
+http://casabasel.webhop.me:12000/italiano/2019/09/Josie.2017.mkv
+#EXTINF: -1 group-title="FILM", John Wick 3 - Parabellum
+http://casabasel.webhop.me:12000/italiano/2019/11/John.Wick.3.Parabellum.2019.mkv
+#EXTINF: -1 group-title="FILM", Il guardiano invisibile
+http://casabasel.webhop.me:12000/italiano/2017/thriller/Il.Guardiano.Invisibile.2017.mkv
+#EXTINF: -1 group-title="FILM", Il corriere - The Mule
+http://casabasel.webhop.me:12000/italiano/2019/06/Il.Corriere.The.Mule.2018.mkv
+#EXTINF: -1 group-title="FILM", Il colpevole - The guilty
+http://casabasel.webhop.me:12000/italiano/2019/09/Il.Colpevole.The.Guilty.2018.mkv
+#EXTINF: -1 group-title="FILM", Il Carillon
+http://casabasel.webhop.me:12000/italiano/2019/06/Il.Carillon.2018.mkv
+#EXTINF: -1 group-title="FILM", Hunter Killer - Caccia negli abissi
+http://casabasel.webhop.me:12000/italiano/2019/03/Hunter.Killer.2018.mkv
+#EXTINF: -1 group-title="FILM", Hold the Dark
+http://casabasel.webhop.me:12000/italiano/2018/09/Hold.the.Dark.2018.mkv
+#EXTINF: -1 group-title="FILM", Hangman - Il gioco dell'impiccato
+http://casabasel.webhop.me:12000/italiano/2019/03/Hangman.2017.mkv
+#EXTINF: -1 group-title="FILM", Glass
+http://casabasel.webhop.me:12000/italiano/2019/06/Glass.2019.mkv
+#EXTINF: -1 group-title="FILM", Giochi di potere
+http://casabasel.webhop.me:12000/italiano/2018/11/Giochi.di.Potere.2018.mkv
+#EXTINF: -1 group-title="FILM", First Reformed - La creazione a rischio
+http://casabasel.webhop.me:12000/italiano/2018/10/First.Reformed.La.creazione.a.rischio.2017.mkv
+#EXTINF: -1 group-title="FILM", Dark Hall
+http://casabasel.webhop.me:12000/italiano/2018/12/Dark.Hall.2018.mkv
+#EXTINF: -1 group-title="FILM", Condannato A Combattere
+http://casabasel.webhop.me:12000/italiano/2018/10/Condannato.a.combattere.The.Forgiven.2017.mkv
+#EXTINF: -1 group-title="FILM", Cold Skin - La creatura di Atlantide
+http://casabasel.webhop.me:12000/italiano/2018/12/Cold.Skin.La.creatura.di.Atlantide.2017.mkv
+#EXTINF: -1 group-title="FILM", City of liES : L'ora della verità
+http://casabasel.webhop.me:12000/italiano/2019/09/City.of.Lies.L.ora.della.verita.2018.mkv
+#EXTINF: -1 group-title="FILM", China Salesman - Contratto mortale
+http://casabasel.webhop.me:12000/italiano/2019/08/China.Slesman.2017.mkv
+#EXTINF: -1 group-title="FILM", Captive State
+http://casabasel.webhop.me:12000/italiano/2019/09/Captive.State.2019.mkv
+#EXTINF: -1 group-title="FILM", Breaking In
+http://casabasel.webhop.me:12000/italiano/2018/11/Breaking.In.2018.mkv
+#EXTINF: -1 group-title="FILM", Border - Creature di confine
+http://casabasel.webhop.me:12000/italiano/2019/11/Border.Creature.di.confine.2018.mkv
+#EXTINF: -1 group-title="FILM", Black Tide
+http://casabasel.webhop.me:12000/italiano/2019/08/Black.Tide.Un.caso.di.scomparsa.2018.mkv
+#EXTINF: -1 group-title="FILM", Black Butterfly
+http://casabasel.webhop.me:12000/italiano/2017/thriller/Black.Butterfly.2017.mkv
+#EXTINF: -1 group-title="FILM", Berlin Syndrome
+http://casabasel.webhop.me:12000/italiano/2018/10/Berlin.Syndrome.2017.mkv
+#EXTINF: -1 group-title="FILM", Bent - Polizia criminale
+http://casabasel.webhop.me:12000/italiano/2018/11/Bent.Polizia.Criminale.2018.mkv
+#EXTINF: -1 group-title="FILM", Backtrace
+http://casabasel.webhop.me:12000/italiano/2019/11/Backtrace.2018.mkv
+#EXTINF: -1 group-title="FILM", Attacco a Mumbai - Una vera storia di coraggio
+http://casabasel.webhop.me:12000/italiano/2019/11/Attacco.a.Mumbai.Una.vera.storia.di.coraggio.2018.mkv
+#EXTINF: -1 group-title="FILM", Assassination Nation
+http://casabasel.webhop.me:12000/italiano/2019/05/Assassination.Nation.2018.mkv
+#EXTINF: -1 group-title="FILM", Anon
+http://casabasel.webhop.me:12000/italiano/2018/09/Anon.2018.mkv
+#EXTINF: -1 group-title="FILM", Annientamento
+http://casabasel.webhop.me:12000/italiano/2019/04/Annientamento.2018.mkv
+#EXTINF: -1 group-title="FILM", Acrimony
+http://casabasel.webhop.me:12000/italiano/2019/08/Acrimony.2018.mkv
+#EXTINF: -1 group-title="FILM", 7 Sconosciuti a El Royale
+http://casabasel.webhop.me:12000/italiano/2019/02/7.sconosciuti.a.El.Royale.2018.mkv
+#EXTINF: -1 group-title="FILM", Una luna chiamata Europa
+http://casabasel.webhop.me:12000/italiano/2018/11/Una.Luna.Chiamata.Europa.2017.mkv
+#EXTINF: -1 group-title="FILM", The Titan
+http://casabasel.webhop.me:12000/italiano/2018/02/The.Titan.2018.mkv
+#EXTINF: -1 group-title="FILM", Storia di un fantasma
+http://casabasel.webhop.me:12000/italiano/2017/09/A.Ghost.Story.mkv
+#EXTINF: -1 group-title="FILM", Singularity
+http://casabasel.webhop.me:12000/italiano/2019/10/Singularity.2017.mkv
+#EXTINF: -1 group-title="FILM", Prospect
+http://casabasel.webhop.me:12000/italiano/2019/09/Prospect.2018.mkv
+#EXTINF: -1 group-title="FILM", Lo schiaccianoci e i quattro regni
+http://casabasel.webhop.me:12000/italiano/2019/03/Lo.Schiaccianoci.E.I.Quattro.Regni.2018.mkv
+#EXTINF: -1 group-title="FILM", La fuga dell'assassino
+http://casabasel.webhop.me:12000/italiano/2017/08/La.Fuga.Dell.Assassino.2017.mkv
+#EXTINF: -1 group-title="FILM", Kill Switch – La guerra dei mondi
+http://casabasel.webhop.me:12000/italiano/2019/04/Kill.Switch.La.Guerra.Dei.Mondi.2017.mkv
+#EXTINF: -1 group-title="FILM", Interferenze
+http://casabasel.webhop.me:12000/italiano/2018/09/Interferenze.2018.mkv
+#EXTINF: -1 group-title="FILM", Il ritorno di Mary Poppins
+http://casabasel.webhop.me:12000/italiano/2019/05/Il.Ritorno.Di.Mary.Poppins.2018.mkv
+#EXTINF: -1 group-title="FILM", Furious
+http://casabasel.webhop.me:12000/italiano/2017/11/Furious.2017.mkv
+#EXTINF: -1 group-title="FILM", Dumbo
+http://casabasel.webhop.me:12000/italiano/2019/09/Dumbo.2019.mkv
+#EXTINF: -1 group-title="FILM", Darkest Minds
+http://casabasel.webhop.me:12000/italiano/2018/11/Darkest.Minds.2018.mkv
+#EXTINF: -1 group-title="FILM", Aquaman
+http://casabasel.webhop.me:12000/italiano/2019/04/Aquaman.2018.mkv
+#EXTINF: -1 group-title="FILM", Animali fantastici - I crimini di Grindelwald
+http://casabasel.webhop.me:12000/italiano/2019/03/Animali.Fantastici.2.I.Crimini.di.Grindelwald.2018.mkv
+#EXTINF: -1 group-title="FILM", Aladdin
+http://casabasel.webhop.me:12000/italiano/2019/11/Aladdin.2019.mkv
+#EXTINF: -1 group-title="FILM", A.I. Rising - Il futuro è adesso
+http://casabasel.webhop.me:12000/italiano/2019/11/A.I.Rising.Il.Futuro.e.Adesso.2018.mkv
+#EXTINF: -1 group-title="FILM", A-X-L - Un'amicizia extraordinaria
+http://casabasel.webhop.me:12000/italiano/2019/01/A.X.L.Un.amicizia.extraordinaria.mkv
+#EXTINF: -1 group-title="FILM", Klimt & Schiele - Eros e psiche
+http://casabasel.webhop.me:12000/italiano/2019/15/Klimt.E.Schiele.Eros.e.Psiche.2018.mkv
+#EXTINF: -1 group-title="FILM", Submergence
+http://casabasel.webhop.me:12000/italiano/2019/15/Submergence.2017.mkv
+#EXTINF: -1 group-title="FILM", In mani sicure
+http://casabasel.webhop.me:12000/italiano/2019/15/In.Mani.Sicure.2018.mkv
+#EXTINF: -1 group-title="FILM", Edison - L'uomo che illuminò il mondo
+http://casabasel.webhop.me:12000/italiano/2019/15/Edison.L.Uomo.Che.Illumino.Il.Mondo.2017.mkv
+#EXTINF: -1 group-title="FILM", Nureyev - The White Crow
+http://casabasel.webhop.me:12000/italiano/2019/14/Nureyev.The.White.Crow.2018.mkv
+#EXTINF: -1 group-title="FILM", Lontano da qui
+http://casabasel.webhop.me:12000/italiano/2019/14/Lontano.Da.Qui.2018.mkv
+#EXTINF: -1 group-title="FILM", Beautiful Boy
+http://casabasel.webhop.me:12000/italiano/2019/14/Beautiful.Boy.2018.mkv
+#EXTINF: -1 group-title="FILM", Atto di fede
+http://casabasel.webhop.me:12000/italiano/2019/14/Atto.di.fede.2019.mkv
+#EXTINF: -1 group-title="FILM", American Animals
+http://casabasel.webhop.me:12000/italiano/2019/14/American.Animals.2018.mkv
+#EXTINF: -1 group-title="FILM", La mia vita con John F. Donovan
+http://casabasel.webhop.me:12000/italiano/2019/13/La.Mia.Vita.con.John.F.Donovan.2018.mkv
+#EXTINF: -1 group-title="FILM", L'apparizione
+http://casabasel.webhop.me:12000/italiano/2019/13/L.apparizione.2018.mkv
+#EXTINF: -1 group-title="FILM", Indian Horse
+http://casabasel.webhop.me:12000/italiano/2019/13/Indian.Horse.2017.mkv
+#EXTINF: -1 group-title="FILM", Rocketman
+http://casabasel.webhop.me:12000/italiano/2019/12/Rocketman.2019.mkv
+#EXTINF: -1 group-title="FILM", A mano disarmata
+http://casabasel.webhop.me:12000/italiano/2019/12/A.Mano.Disarmata.2019.mkv
+#EXTINF: -1 group-title="FILM", Il traditore
+http://casabasel.webhop.me:12000/italiano/2019/12/Il.Traditore.2019.mkv
+#EXTINF: -1 group-title="FILM", Youtopia
+http://casabasel.webhop.me:12000/italiano/2018/07/Youtopia.2018.mkv
+#EXTINF: -1 group-title="FILM", Wonder
+http://casabasel.webhop.me:12000/italiano/2017/08/Wonder.2017.mkv
+#EXTINF: -1 group-title="FILM", Vice - L'uomo nell'ombra
+http://casabasel.webhop.me:12000/italiano/2019/06/Vice.L.uomo.nell.ombra.2018.mkv
+#EXTINF: -1 group-title="FILM", Veleno
+http://casabasel.webhop.me:12000/italiano/2017/07/Veleno.2017.mkv
+#EXTINF: -1 group-title="FILM", Van Gogh - Sulla soglia dell'eternità
+http://casabasel.webhop.me:12000/italiano/2019/05/Van.Gogh.Sulla.Soglia.Dell.eternita.mkv
+#EXTINF: -1 group-title="FILM", Unbroken: La via della redenzione
+http://casabasel.webhop.me:12000/italiano/2019/01/Unbroken.La.via.della.redenzione.2018.mkv
+#EXTINF: -1 group-title="FILM", Una notte di 12 anni
+http://casabasel.webhop.me:12000/italiano/2019/06/Una.Notte.Di.12.Anni.2018.mkv
+#EXTINF: -1 group-title="FILM", Una giusta causa
+http://casabasel.webhop.me:12000/italiano/2019/09/Una.Giusta.Causa.2018.mkv
+#EXTINF: -1 group-title="FILM", Un viaggio a quattro zampe
+http://casabasel.webhop.me:12000/italiano/2019/08/Un.Viaggio.A.Quattro.Zampe.2019.mkv
+#EXTINF: -1 group-title="FILM", Un valzer tra gli scaffali
+http://casabasel.webhop.me:12000/italiano/2019/07/Un.valzer.tra.gli.scaffali.2018.mkv
+#EXTINF: -1 group-title="FILM", Tonya
+http://casabasel.webhop.me:12000/italiano/2018/06/Tonya.2018.mkv
+#EXTINF: -1 group-title="FILM", Thelma
+http://casabasel.webhop.me:12000/italiano/2018/12/Thelma.2017.mkv
+#EXTINF: -1 group-title="FILM", The Tale
+http://casabasel.webhop.me:12000/italiano/2018/09/The.Tale.2018.mkv
+#EXTINF: -1 group-title="FILM", The Startup: Accendi il tuo futuro
+http://casabasel.webhop.me:12000/italiano/2017/drammatico/The.Startup.2017.mkv
+#EXTINF: -1 group-title="FILM", The Latin Dream
+http://casabasel.webhop.me:12000/italiano/2017/drammatico/The.Latin.Dream.2017.mkv
+#EXTINF: -1 group-title="FILM", The greatest showman
+http://casabasel.webhop.me:12000/italiano/2017/08/The.Greatest.Showman.2017.mkv
+#EXTINF: -1 group-title="FILM", The Front Runner - Il vizio del potere
+http://casabasel.webhop.me:12000/italiano/2019/07/The.Front.Runner.Il.Vizio.del.Potere.2018.mkv
+#EXTINF: -1 group-title="FILM", The Bombing - La battaglia di Chongqing
+http://casabasel.webhop.me:12000/italiano/2018/12/The.Bombing.La.Battaglia.Di.Chongqing.2018.mkv
+#EXTINF: -1 group-title="FILM", T2 Trainspotting
+http://casabasel.webhop.me:12000/italiano/2017/drammatico/T2.Trainspotting.2017.mkv
+#EXTINF: -1 group-title="FILM", Sulle ali delle aquile
+http://casabasel.webhop.me:12000/italiano/2017/11/Sulle.Ali.Delle.Aquile.2017.mkv
+#EXTINF: -1 group-title="FILM", Sulla mia pelle
+http://casabasel.webhop.me:12000/italiano/2018/09/Sulla.mia.pelle.2018.mkv
+#EXTINF: -1 group-title="FILM", Senza lasciare traccia
+http://casabasel.webhop.me:12000/italiano/2018/12/Senza.lasciare.traccia.2018.mkv
+#EXTINF: -1 group-title="FILM", Roxanne Roxanne
+http://casabasel.webhop.me:12000/italiano/2018/01/Roxanne.Roxanne.2018.mkv
+#EXTINF: -1 group-title="FILM", Rebel in the Rye
+http://casabasel.webhop.me:12000/italiano/2019/05/Rebel.in.the.Rye.mkv
+#EXTINF: -1 group-title="FILM", Rachel
+http://casabasel.webhop.me:12000/italiano/2017/02/Rachel.2017.mkv
+#EXTINF: -1 group-title="FILM", Quando corre Nuvolari
+http://casabasel.webhop.me:12000/italiano/2019/08/Quando.Corre.Nuvolari.2019.mkv
+#EXTINF: -1 group-title="FILM", Prima di domani
+http://casabasel.webhop.me:12000/italiano/2017/drammatico/Prima.di.domani.2017.mkv
+#EXTINF: -1 group-title="FILM", Papillon
+http://casabasel.webhop.me:12000/italiano/2018/12/Papillon.2018.mkv
+#EXTINF: -1 group-title="FILM", Oro verde - C'era una volta in Colombia
+http://casabasel.webhop.me:12000/italiano/2019/11/Oro.Verde.C.Era.Una.Volta.In.Colombia.2018.mkv
+#EXTINF: -1 group-title="FILM", Oro - La Città Perduta
+http://casabasel.webhop.me:12000/italiano/2019/05/Oro.La.Citt%C3%A0.Perduta.2017.mkv
+#EXTINF: -1 group-title="FILM", Nome di donna
+http://casabasel.webhop.me:12000/italiano/2018/06/Nome.di.donna.2018.mkv
+#EXTINF: -1 group-title="FILM", Noi siamo tutto
+http://casabasel.webhop.me:12000/italiano/2017/drammatico/Noi.siamo.tutto.2017.mkv
+#EXTINF: -1 group-title="FILM", Michelangelo - Infinito
+http://casabasel.webhop.me:12000/italiano/2019/06/Michelangelo.Infinito.2018.mkv
+#EXTINF: -1 group-title="FILM", Maria Maddalena
+http://casabasel.webhop.me:12000/italiano/2018/06/Maria.Maddalena.2018.mkv
+#EXTINF: -1 group-title="FILM", Ma ma - Tutto andrà bene
+http://casabasel.webhop.me:12000/italiano/2019/08/Ma.Ma.Tutto.Andra.Bene.mkv
+#EXTINF: -1 group-title="FILM", Loveless
+http://casabasel.webhop.me:12000/italiano/2017/11/Loveless.2017.mkv
+#EXTINF: -1 group-title="FILM", Loro 1
+http://casabasel.webhop.me:12000/italiano/2019/03/Loro.1.2018.mkv
+#EXTINF: -1 group-title="FILM", Lo scandalo Kennedy
+http://casabasel.webhop.me:12000/italiano/2019/06/Lo.scandalo.Kennedy.2018.mkv
+#EXTINF: -1 group-title="FILM", La voce della pietra
+http://casabasel.webhop.me:12000/italiano/2018/10/La.voce.della.pietra.2017.mkv
+#EXTINF: -1 group-title="FILM", La stanza delle meraviglie
+http://casabasel.webhop.me:12000/italiano/2018/10/La.stanza.delle.meraviglie.2017.mkv
+#EXTINF: -1 group-title="FILM", La ruota delle meraviglie
+http://casabasel.webhop.me:12000/italiano/2017/08/La.Ruota.Delle.Meraviglie.2017.mkv
+#EXTINF: -1 group-title="FILM", La musica del silenzio
+http://casabasel.webhop.me:12000/italiano/2017/08/La.Musica.Del.Silenzio.2017.mkv
+#EXTINF: -1 group-title="FILM", La favorita
+http://casabasel.webhop.me:12000/italiano/2019/07/La.Favorita.2018.mkv
+#EXTINF: -1 group-title="FILM", La diseducazione di Cameron Post
+http://casabasel.webhop.me:12000/italiano/2019/03/La.Diseducazione.di.Cameron.Post.2018.mkv
+#EXTINF: -1 group-title="FILM", La conseguenza
+http://casabasel.webhop.me:12000/italiano/2019/09/La.Conseguenza.2019.mkv
+#EXTINF: -1 group-title="FILM", La ballerina del Bolshoi
+http://casabasel.webhop.me:12000/italiano/2019/01/La.ballerina.del.Bolshoi.2017.mkv
+#EXTINF: -1 group-title="FILM", L'ordine delle cose
+http://casabasel.webhop.me:12000/italiano/2017/07/L.ordine.delle.cose.2017.mkv
+#EXTINF: -1 group-title="FILM", L'ora più buia
+http://casabasel.webhop.me:12000/italiano/2017/11/L.Ora.Piu.Buia.2017.mkv
+#EXTINF: -1 group-title="FILM", L'intrusa
+http://casabasel.webhop.me:12000/italiano/2017/07/L.intrusa.2017.mkv
+#EXTINF: -1 group-title="FILM", In guerra per amore
+http://casabasel.webhop.me:12000/italiano/2019/05/In.Guerra.2018.mkv
+#EXTINF: -1 group-title="FILM", Il sole a mezzanotte - Midnight sun
+http://casabasel.webhop.me:12000/italiano/2018/05/Il.sole.a.mezzanotte.2018.mkv
+#EXTINF: -1 group-title="FILM", Il sacrificio del cervo sacro
+http://casabasel.webhop.me:12000/italiano/2018/11/Il.Sacrificio.del.cervo.sacro.2018.mkv
+#EXTINF: -1 group-title="FILM", Il professore e il pazzo
+http://casabasel.webhop.me:12000/italiano/2019/09/Il.Professore.e.il.Pazzo.2019.mkv
+#EXTINF: -1 group-title="FILM", Il presidente
+http://casabasel.webhop.me:12000/italiano/2018/12/Il.Presidente.2017.mkv
+#EXTINF: -1 group-title="FILM", Il premio
+http://casabasel.webhop.me:12000/italiano/2017/08/Il.Premio.2017.mkv
+#EXTINF: -1 group-title="FILM", Il palazzo del Viceré
+http://casabasel.webhop.me:12000/italiano/2017/08/Il.Palazzo.Del.Vicere.2017.mkv
+#EXTINF: -1 group-title="FILM", Il mio nome è Thomas
+http://casabasel.webhop.me:12000/italiano/2018/11/Il.mio.nome.e.Thomas.2018.mkv
+#EXTINF: -1 group-title="FILM", Il mio Godard
+http://casabasel.webhop.me:12000/italiano/2017/11/Il.Mio.Godard.2017.mkv
+#EXTINF: -1 group-title="FILM", Il colore nascosto delle cose
+http://casabasel.webhop.me:12000/italiano/2017/01/Il.colore.nascosto.delle.cose.2017.mkv
+#EXTINF: -1 group-title="FILM", Il castello di vetro
+http://casabasel.webhop.me:12000/italiano/2019/05/Il.Castello.Di.Vetro.2017.mkv
+#EXTINF: -1 group-title="FILM", I villeggianti
+http://casabasel.webhop.me:12000/italiano/2019/09/I.Villeggianti.2018.mkv
+#EXTINF: -1 group-title="FILM", I kill giants
+http://casabasel.webhop.me:12000/italiano/2018/05/I.Kill.Giants.2017.mkv
+#EXTINF: -1 group-title="FILM", Hurricane
+http://casabasel.webhop.me:12000/italiano/2019/06/Hurricane.2018.mkv
+#EXTINF: -1 group-title="FILM", Hannah
+http://casabasel.webhop.me:12000/italiano/2019/05/Hannah.2017.mkv
+#EXTINF: -1 group-title="FILM", Gloria Bell
+http://casabasel.webhop.me:12000/italiano/2019/09/Gloria.Bell.2018.mkv
+#EXTINF: -1 group-title="FILM", Gli invisibili
+http://casabasel.webhop.me:12000/italiano/2017/11/Gli.Invisibili.mkv
+#EXTINF: -1 group-title="FILM", It Girl
+http://casabasel.webhop.me:12000/italiano/2019/03/Girl.2018.mkv
+#EXTINF: -1 group-title="FILM", First Man - Il primo uomo
+http://casabasel.webhop.me:12000/italiano/2019/01/First.Man.2018.mkv
+#EXTINF: -1 group-title="FILM", Fino all'osso
+http://casabasel.webhop.me:12000/italiano/2017/drammatico/Fino.all.osso.2017.mkv
+#EXTINF: -1 group-title="FILM", Eva
+http://casabasel.webhop.me:12000/italiano/2018/09/Eva.2018.mkv
+#EXTINF: -1 group-title="FILM", Euforia
+http://casabasel.webhop.me:12000/italiano/2019/02/Euforia.2018.mkv
+#EXTINF: -1 group-title="FILM", Era mio nemico
+http://casabasel.webhop.me:12000/italiano/2018/12/Era.Mio.Nemico.2017.mkv
+#EXTINF: -1 group-title="FILM", Ella & John - The Leisure Seeker
+http://casabasel.webhop.me:12000/italiano/2017/11/Ella.E.John.The.Leisure.Seeker.2017.mkv
+#EXTINF: -1 group-title="FILM", Edhel
+http://casabasel.webhop.me:12000/italiano/2019/08/Edhel.2017.mkv
+#EXTINF: -1 group-title="FILM", Dunkirk
+http://casabasel.webhop.me:12000/italiano/2017/drammatico/Dunkirk.2017.mkv
+#EXTINF: -1 group-title="FILM", Disobedience
+http://casabasel.webhop.me:12000/italiano/2019/03/Disobedience.2017..mkv
+#EXTINF: -1 group-title="FILM", Creed II
+http://casabasel.webhop.me:12000/italiano/2019/08/Creed.II.2018.mkv
+#EXTINF: -1 group-title="FILM", Cosa dirà la gente
+http://casabasel.webhop.me:12000/italiano/2018/10/Cosa.Dira.la.Gente.2017.mkv
+#EXTINF: -1 group-title="FILM", Corpo e anima
+http://casabasel.webhop.me:12000/italiano/2017/08/Corpo.E.Anima.2017.mkv
+#EXTINF: -1 group-title="FILM", Copperman
+http://casabasel.webhop.me:12000/italiano/2019/08/Copperman.2019.mkv
+#EXTINF: -1 group-title="FILM", Copia originale
+http://casabasel.webhop.me:12000/italiano/2019/09/Copia.Originale.2018.mkv
+#EXTINF: -1 group-title="FILM", Conta su di me
+http://casabasel.webhop.me:12000/italiano/2019/04/Conta.Su.Di.Me.2018.mkv
+#EXTINF: -1 group-title="FILM", Colette
+http://casabasel.webhop.me:12000/italiano/2019/05/Colette.mkv
+#EXTINF: -1 group-title="FILM", Cold War
+http://casabasel.webhop.me:12000/italiano/2019/05/Cold.War.mkv
+#EXTINF: -1 group-title="FILM", Close enemiES : Fratelli nemici
+http://casabasel.webhop.me:12000/italiano/2019/10/Fratelli.Nemici.Close.Enemies.2018.mkv
+#EXTINF: -1 group-title="FILM", Chiudi gli occhi - All I See Is You
+http://casabasel.webhop.me:12000/italiano/2018/10/Chiudi.gli.occhi.All.I.see.is.You.2018.mkv
+#EXTINF: -1 group-title="FILM", Chiamami col tuo nome
+http://casabasel.webhop.me:12000/italiano/2017/11/Chiamami.Col.Tuo.Nome.2017.mkv
+#EXTINF: -1 group-title="FILM", Chesil Beach - Il segreto di una notte
+http://casabasel.webhop.me:12000/italiano/2019/10/Chesil.Beach.Il.Segreto.Di.Una.Notte.2018.mkv
+#EXTINF: -1 group-title="FILM", Castello di sabbia
+http://casabasel.webhop.me:12000/italiano/2017/drammatico/Castello.Di.Sabbia.2017.mkv
+#EXTINF: -1 group-title="FILM", Capri-Revolution
+http://casabasel.webhop.me:12000/italiano/2019/05/Capri.Revolution.2018.mkv
+#EXTINF: -1 group-title="FILM", Caccia al 12° uomo
+http://casabasel.webhop.me:12000/italiano/2019/05/Caccia.al.12.uomo.mkv
+#EXTINF: -1 group-title="FILM", Burning Sands: Il codice del silenzio
+http://casabasel.webhop.me:12000/italiano/2017/08/Burning.sands.Il.Codice.Del.Silenzio.2017.mkv
+#EXTINF: -1 group-title="FILM", Boy erased - Vite cancellate
+http://casabasel.webhop.me:12000/italiano/2019/07/Boy.Erased.Vite.cancellate.2018.mkv
+#EXTINF: -1 group-title="FILM", Ben Is Back
+http://casabasel.webhop.me:12000/italiano/2019/05/Ben.Is.Back.2018.mkv
+#EXTINF: -1 group-title="FILM", Attraction
+http://casabasel.webhop.me:12000/italiano/2019/08/Attraction.2017.mkv
+#EXTINF: -1 group-title="FILM", Attenti a quelle due
+http://casabasel.webhop.me:12000/italiano/2019/11/Attenti.A.Quelle.Due.2019.mkv
+#EXTINF: -1 group-title="FILM", Angel Face
+http://casabasel.webhop.me:12000/italiano/2019/06/Angel.Face.2018.mkv
+#EXTINF: -1 group-title="FILM", After
+http://casabasel.webhop.me:12000/italiano/2019/10/After.2019.mkv
+#EXTINF: -1 group-title="FILM", A un miglio da te
+http://casabasel.webhop.me:12000/italiano/2017/07/A.un.miglio%20.da.te.2017.mkv
+#EXTINF: -1 group-title="FILM", A un metro da te
+http://casabasel.webhop.me:12000/italiano/2019/09/A.Un.Metro.Da.Te.2019.mkv
+#EXTINF: -1 group-title="FILM", A casa nostra (2017)
+http://casabasel.webhop.me:12000/italiano/2017/drammatico/A.Casa.Nostra.2017.mkv
+#EXTINF: -1 group-title="FILM", 12 soldiers
+http://casabasel.webhop.me:12000/italiano/2018/11/12.Soldiers.2018.mkv
+#EXTINF: -1 group-title="FILM", La bambola assassina
+http://casabasel.webhop.me:12000/italiano/2019/15/La.Bambola.Assassina.2019.mkv
+#EXTINF: -1 group-title="FILM", Crawl - Intrappolati
+http://casabasel.webhop.me:12000/italiano/2019/15/Crawl.Intrappolati.2019.mkv
+#EXTINF: -1 group-title="FILM", Dead Trigger
+http://casabasel.webhop.me:12000/italiano/2019/15/Dead.Trigger.2017.mkv
+#EXTINF: -1 group-title="FILM", Midsommar - Il villaggio dei dannati
+http://casabasel.webhop.me:12000/italiano/2019/15/Midsommar.Il.Villaggio.Dei.Dannati.2019.mkv
+#EXTINF: -1 group-title="FILM", Among the shadows - Tra le ombre
+http://casabasel.webhop.me:12000/italiano/2019/15/Among.the.Shadows.Tra.le.ombre.2019.mkv
+#EXTINF: -1 group-title="FILM", Annabelle 3
+http://casabasel.webhop.me:12000/italiano/2019/14/Annabelle.3.2019.mkv
+#EXTINF: -1 group-title="FILM", Polaroid
+http://casabasel.webhop.me:12000/italiano/2019/13/Polaroid.2019.mkv
+#EXTINF: -1 group-title="FILM", Nell'erba alta
+http://casabasel.webhop.me:12000/italiano/2019/13/Nell.erba.alta.2019.mkv
+#EXTINF: -1 group-title="FILM", Ma
+http://casabasel.webhop.me:12000/italiano/2019/13/Ma.Si.prendera.cura.di.te.2019.mkv
+#EXTINF: -1 group-title="FILM", Go Home - A Casa Loro
+http://casabasel.webhop.me:12000/italiano/2019/13/Go.Home.A.casa.loro.2018.mkv
+#EXTINF: -1 group-title="FILM", I morti non muoiono
+http://casabasel.webhop.me:12000/italiano/2019/12/I.Morti.Non.Muoiono.2019.mkv
+#EXTINF: -1 group-title="FILM", Wish Upon
+http://casabasel.webhop.me:12000/italiano/2017/orrore/Wish.Upon.2017.mkv
+#EXTINF: -1 group-title="FILM", Unsane
+http://casabasel.webhop.me:12000/italiano/2018/06/Unsane.2018.mkv
+#EXTINF: -1 group-title="FILM", Tremors: A Cold Day in Hell
+http://casabasel.webhop.me:12000/italiano/2018/02/Tremors.A.Cold.Day.In.Hell.2018.mkv
+#EXTINF: -1 group-title="FILM", The void - Il vuoto
+http://casabasel.webhop.me:12000/italiano/2017/08/The.Void.Il.Vuoto.2017.mkv
+#EXTINF: -1 group-title="FILM", The prodigy - Il figlio del male
+http://casabasel.webhop.me:12000/italiano/2019/10/The.Prodigy.Il.Figlio.Del.Male.2019.mkv
+#EXTINF: -1 group-title="FILM", The Night Watchmen
+http://casabasel.webhop.me:12000/italiano/2019/09/The.Night.Watchmen.2017.mkv
+#EXTINF: -1 group-title="FILM", The Head Hunter
+http://casabasel.webhop.me:12000/italiano/2019/11/The.Head.Hunter.mkv
+#EXTINF: -1 group-title="FILM", The End? L'inferno fuori
+http://casabasel.webhop.me:12000/italiano/2018/07/The.End.L.Inferno.Fuori.2017.mkv
+#EXTINF: -1 group-title="FILM", The Domestics
+http://casabasel.webhop.me:12000/italiano/2019/01/The.Domestics.2018.mkv
+#EXTINF: -1 group-title="FILM", The Cloverfield Paradox
+http://casabasel.webhop.me:12000/italiano/2019/01/The.Cloverfield.Paradox.La.Particella.Di.Dio.2018.mkv
+#EXTINF: -1 group-title="FILM", Suspiria
+http://casabasel.webhop.me:12000/italiano/2019/05/Suspiria.mkv
+#EXTINF: -1 group-title="FILM", Stake Land II
+http://casabasel.webhop.me:12000/italiano/2019/11/Stakelander.The.Making.of.Stake.Land.II.2017.mkv
+#EXTINF: -1 group-title="FILM", Sharon Tate – Tra incubo e realtà
+http://casabasel.webhop.me:12000/italiano/2019/11/Sharon.Tate.Tra.Incubo.E.Realta.2019.mkv
+#EXTINF: -1 group-title="FILM", Saw - Legacy
+http://casabasel.webhop.me:12000/italiano/2017/07/Saw.Legacy.2017.mkv
+#EXTINF: -1 group-title="FILM", Saw - Legacy
+http://casabasel.webhop.me:12000/italiano/2019/04/Saw.Legacy.2017.mkv
+#EXTINF: -1 group-title="FILM", Rabbia Furiosa - Er Canaro
+http://casabasel.webhop.me:12000/italiano/2019/08/Rabbia.furiosa.Er.Canaro.2018.mkv
+#EXTINF: -1 group-title="FILM", Piercing
+http://casabasel.webhop.me:12000/italiano/2019/04/Piercing.2018.mkv
+#EXTINF: -1 group-title="FILM", Piccoli Brividi 2 - I fantasmi di Halloween
+http://casabasel.webhop.me:12000/italiano/2019/01/Piccoli.Brividi.2.I.Fantasmi.Di.Halloween.2018.mkv
+#EXTINF: -1 group-title="FILM", Pet Sematary
+http://casabasel.webhop.me:12000/italiano/2019/09/Pet.Sematary.2019.mkv
+#EXTINF: -1 group-title="FILM", Overlord
+http://casabasel.webhop.me:12000/italiano/2019/03/Overlord.2018.mkv
+#EXTINF: -1 group-title="FILM", Open water 3 - Cage dive
+http://casabasel.webhop.me:12000/italiano/2017/01/Open.Water.3.Cage.Dive.2017.mkv
+#EXTINF: -1 group-title="FILM", Obbligo o verità
+http://casabasel.webhop.me:12000/italiano/2018/09/Obbligo.o.Verita.Unrated.2018.mkv
+#EXTINF: -1 group-title="FILM", Noi
+http://casabasel.webhop.me:12000/italiano/2019/09/Noi.2019.mkv
+#EXTINF: -1 group-title="FILM", Mandy
+http://casabasel.webhop.me:12000/italiano/2019/01/Mandy.2018.mkv
+#EXTINF: -1 group-title="FILM", La settima musa
+http://casabasel.webhop.me:12000/italiano/2018/12/La.Settima.Musa.2017.mkv
+#EXTINF: -1 group-title="FILM", La prima notte del giudizio
+http://casabasel.webhop.me:12000/italiano/2018/09/La.Prima.Notte.Del.Giudizio.2018.mkv
+#EXTINF: -1 group-title="FILM", La notte ha divorato il mondo
+http://casabasel.webhop.me:12000/italiano/2019/06/La.notte.ha.divorato.il.mondo.2018.mkv
+#EXTINF: -1 group-title="FILM", La casa di Jack
+http://casabasel.webhop.me:12000/italiano/2019/09/La.Casa.Di.Jack.2018.mkv
+#EXTINF: -1 group-title="FILM", La casa delle bambole - Ghostland
+http://casabasel.webhop.me:12000/italiano/2019/05/La.Casa.delle.Bambole.Ghostland.2018.mkv
+#EXTINF: -1 group-title="FILM", L'esorcismo di Hannah Grace
+http://casabasel.webhop.me:12000/italiano/2019/05/L.esorcismo.di.Hannah.Grace.mkv
+#EXTINF: -1 group-title="FILM", It Comes at Night
+http://casabasel.webhop.me:12000/italiano/2018/11/It.Comes.at.Night.2017.mkv
+#EXTINF: -1 group-title="FILM", It Came from the Desert
+http://casabasel.webhop.me:12000/italiano/2017/11/It.Came.From.The.Desert.2017.mkv
+#EXTINF: -1 group-title="FILM", It
+http://casabasel.webhop.me:12000/italiano/2017/01/It.2017.mkv
+#EXTINF: -1 group-title="FILM", Il mistero della casa del tempo
+http://casabasel.webhop.me:12000/italiano/2019/02/Il.Mistero.della.casa.del.tempo.2018.mkv
+#EXTINF: -1 group-title="FILM", Il culto di Chucky
+http://casabasel.webhop.me:12000/italiano/2017/orrore/Il.culto.di.Chucky.2017.mkv
+#EXTINF: -1 group-title="FILM", I Famelici
+http://casabasel.webhop.me:12000/italiano/2017/07/I.famelici.2017.mkv
+#EXTINF: -1 group-title="FILM", Hereditary - Le radici del male
+http://casabasel.webhop.me:12000/italiano/2018/11/Hereditary.Le.Radici.del.Male.2018.mkv
+#EXTINF: -1 group-title="FILM", Hellboy
+http://casabasel.webhop.me:12000/italiano/2019/10/Hellboy.2019.mkv
+#EXTINF: -1 group-title="FILM", Hell Fest
+http://casabasel.webhop.me:12000/italiano/2019/03/Hell.Fest.2018.mkv
+#EXTINF: -1 group-title="FILM", Halloween
+http://casabasel.webhop.me:12000/italiano/2019/01/Halloween.2018.mkv
+#EXTINF: -1 group-title="FILM", Guardians of the tomb
+http://casabasel.webhop.me:12000/italiano/2018/05/Guardians.Of.The.Tomb.2018.mkv
+#EXTINF: -1 group-title="FILM", Ghost Stories
+http://casabasel.webhop.me:12000/italiano/2018/07/Ghost.Stories.2017.mkv
+#EXTINF: -1 group-title="FILM", Fino All'Inferno
+http://casabasel.webhop.me:12000/italiano/2018/11/Fino.All.Inferno.2018.mkv
+#EXTINF: -1 group-title="FILM", Escape Room
+http://casabasel.webhop.me:12000/italiano/2019/07/Escape.Room.2019.mkv
+#EXTINF: -1 group-title="FILM", Die In One Day - Improvvisa o Muori
+http://casabasel.webhop.me:12000/italiano/2018/11/Die.In.One.Day.Improvvisa.Muori.2018.mkv
+#EXTINF: -1 group-title="FILM", Deserto rosso sangue
+http://casabasel.webhop.me:12000/italiano/2017/09/Deserto.Rosso.Sangue.2017.mkv
+#EXTINF: -1 group-title="FILM", Day of the dead: bloodline
+http://casabasel.webhop.me:12000/italiano/2017/11/Day.Of.The.Dead.Bloodline.2018.mkv
+#EXTINF: -1 group-title="FILM", Crucifixion - Il male ï¿½ stato invocato
+http://casabasel.webhop.me:12000/italiano/2019/08/Crucifixion.Il.Male.E.Stato.Invocato.2017.mkv
+#EXTINF: -1 group-title="FILM", Antisocial 2
+http://casabasel.webhop.me:12000/italiano/2019/04/Antisocial.2.2018.mkv
+#EXTINF: -1 group-title="FILM", Annabelle 2: creation
+http://casabasel.webhop.me:12000/italiano/2017/orrore/Annabelle.2.Creation.2017.mkv
+#EXTINF: -1 group-title="FILM", Ancora auguri per la tua morte
+http://casabasel.webhop.me:12000/italiano/2019/08/Ancora.Auguri.Per.La.Tua.Morte.2019.mkv
+#EXTINF: -1 group-title="FILM", A Quiet Place - Un posto tranquillo
+http://casabasel.webhop.me:12000/italiano/2018/06/A.Quiet.Place.Un.posto.tranquillo.2018.mkv
+#EXTINF: -1 group-title="FILM", L'angelo del crimine
+http://casabasel.webhop.me:12000/italiano/2019/14/L.angelo.del.crimine.2018.mkv
+#EXTINF: -1 group-title="FILM", Rapina a Stoccolma
+http://casabasel.webhop.me:12000/italiano/2019/13/Rapina.a.Stoccolma.2019.mkv
+#EXTINF: -1 group-title="FILM", Una preghiera prima dell'alba
+http://casabasel.webhop.me:12000/italiano/2019/01/Una.Preghiera.Prima.dell.Alba.2017.mkv
+#EXTINF: -1 group-title="FILM", Un affare di famiglia
+http://casabasel.webhop.me:12000/italiano/2019/05/Un.Affare.Di.Famiglia.2018.mkv
+#EXTINF: -1 group-title="FILM", Terminal
+http://casabasel.webhop.me:12000/italiano/2018/06/Terminal.2018.mkv
+#EXTINF: -1 group-title="FILM", Se la strada potesse parlare
+http://casabasel.webhop.me:12000/italiano/2019/07/Se.La.Strada.Potesse.Parlare.2018.mkv
+#EXTINF: -1 group-title="FILM", Old Man & the Gun
+http://casabasel.webhop.me:12000/italiano/2019/05/Old.Man.%26.the.Gun.mkv
+#EXTINF: -1 group-title="FILM", Ocean's 8
+http://casabasel.webhop.me:12000/italiano/2018/08/Ocean.s.8.2018.mkv
+#EXTINF: -1 group-title="FILM", Nella tana dei lupi
+http://casabasel.webhop.me:12000/italiano/2018/07/Nella.Tana.Dei.Lupi.2018.mkv
+#EXTINF: -1 group-title="FILM", Molly's game
+http://casabasel.webhop.me:12000/italiano/2018/07/Molly.S.Game.2017.mkv
+#EXTINF: -1 group-title="FILM", La truffa del secolo
+http://casabasel.webhop.me:12000/italiano/2018/09/La.truffa.del.secolo.2017.mkv
+#EXTINF: -1 group-title="FILM", John Wick - Capitolo 2
+http://casabasel.webhop.me:12000/italiano/2017/criminale/John.Wick.Capitolo.2.2017.mkv
+#EXTINF: -1 group-title="FILM", Il coraggio della verità - The hate u give
+http://casabasel.webhop.me:12000/italiano/2019/08/Il.Coraggio.Della.Verit%C3%A0.2018.mkv
+#EXTINF: -1 group-title="FILM", Escobar - Il fascino del male
+http://casabasel.webhop.me:12000/italiano/2018/07/Escobar.Il.Fascino.del.male.2017.mkv
+#EXTINF: -1 group-title="FILM", Cocaine - La vera storia di White Boy Rick
+http://casabasel.webhop.me:12000/italiano/2019/07/Cocaine.La.Vera.Storia.Di.White.Boy.Rick.2018.mkv
+#EXTINF: -1 group-title="FILM", Bullet head
+http://casabasel.webhop.me:12000/italiano/2017/07/Bullet.Head.2017.mkv
+#EXTINF: -1 group-title="FILM", Cell Block 99: Nessuno può fermarmi
+http://casabasel.webhop.me:12000/italiano/2017/09/Brawl.In.Cell.Block.99.2017.mkv
+#EXTINF: -1 group-title="FILM", Bomb City
+http://casabasel.webhop.me:12000/italiano/2019/10/Bomb.City.2017.mkv
+#EXTINF: -1 group-title="FILM", Benji
+http://casabasel.webhop.me:12000/italiano/2018/01/Benji.2018.mkv
+#EXTINF: -1 group-title="FILM", L'amore criminale
+http://casabasel.webhop.me:12000/italiano/2017/01/L.amore.criminale.2017.mkv
+#EXTINF: -1 group-title="FILM", 1922
+http://casabasel.webhop.me:12000/italiano/2017/07/1922.2017.mkv
+#EXTINF: -1 group-title="FILM", The girl from the song
+http://casabasel.webhop.me:12000/italiano/2017/musicale/The.Girl.from.the.Song.La.ragazza.della.canzone.2017.mkv
+#EXTINF: -1 group-title="FILM", Riccardo va all'inferno
+http://casabasel.webhop.me:12000/italiano/2017/07/Riccardo.va.all.inferno.2017.mkv
+#EXTINF: -1 group-title="FILM", Grease Live!
+http://casabasel.webhop.me:12000/italiano/2017/11/Grease.Live.2017.mkv
+#EXTINF: -1 group-title="FILM", Bohemian Rhapsody
+http://casabasel.webhop.me:12000/italiano/2019/01/Bohemian.Rhapsody.2018.mkv
+#EXTINF: -1 group-title="FILM", Amy Winehouse: Back to Black
+http://casabasel.webhop.me:12000/italiano/2018/11/Amy.Winehouse.Back.to.Black.2018.mkv
+#EXTINF: -1 group-title="FILM", A Star Is Born
+http://casabasel.webhop.me:12000/italiano/2019/02/A.Star.Is.Born.2018.mkv
+#EXTINF: -1 group-title="FILM", Sir - Cenerentola a Mumbai
+http://casabasel.webhop.me:12000/italiano/2019/15/Sir.Cenerentola.a.Mumbai.2018.mkv
+#EXTINF: -1 group-title="FILM", Cruise
+http://casabasel.webhop.me:12000/italiano/2019/05/Cruise.mkv
+#EXTINF: -1 group-title="FILM", Kings
+http://casabasel.webhop.me:12000/italiano/2019/05/Kings.2017.mkv
+#EXTINF: -1 group-title="FILM", SPF-18
+http://casabasel.webhop.me:12000/italiano/2017/01/SPF.18.2017.mkv
