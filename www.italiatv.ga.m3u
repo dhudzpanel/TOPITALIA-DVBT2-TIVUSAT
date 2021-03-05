@@ -10,6 +10,8 @@
 
 
 #EXTM3U
+#EXTINF:0 tvg-logo="https://imgur.com/lfCeVsr.jpg" group-title="🇮🇹== I T A L I A ==🇮🇹", RAI UNO SD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/774
 #EXTINF:0 tvg-logo="https://imgur.com/lfCeVsr.jpg" group-title="🇮🇹== I T A L I A ==🇮🇹", RAI 1 HD - (SOLO ANDROID)
 http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803
 #EXTINF:0 tvg-logo="https://imgur.com/kRnBNzA.jpg" group-title="🇮🇹== I T A L I A ==🇮🇹", RAI 2 HD - (SOLO ANDROID)
@@ -132,302 +134,58 @@ https://amuse-amuseanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
 
 
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Abu Dhabi Sports 1 HD 
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Abu Dhabi Sports 2 HD 
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Abu Dhabi Sports 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports4
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Abu Dhabi Sports 5
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports5
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Abu Dhabi Sports 6
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",CBC SPORT
-http://streams2.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 1 (attivo solo durante evento)
-http://stream.doball.com:8080/hls/ch1.m3u8?feed
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 2 (attivo solo durante evento)
-http://stream.doball.com:8080/hls/ch2.m3u8?feed
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 3 (attivo solo durante evento)
-http://stream.doball.com:8080/hls/ch3.m3u8?feed
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 4 (attivo solo durante evento)
-http://stream.doball.com:8080/hls/ch4.m3u8?feed
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 5 (attivo solo durante evento)
-http://stream.doball.com:8080/hls/ch5.m3u8?feed
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 6 (attivo solo durante evento)
-http://stream.doball.com:8080/hls/ch6.m3u8?feed
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 7 (attivo solo durante evento)
-http://stream.doball.com:8080/hls/ch7.m3u8?feed
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 8 (attivo solo durante evento)
-http://stream.doball.com:8080/hls/ch8.m3u8?feed
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 9 (attivo solo durante evento)
-http://stream.doball.com:8080/hls/ch9.m3u8?feed
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 10 (attivo solo durante evento)
-http://stream.doball.com:8080/hls/ch10.m3u8?feed
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 11 (attivo solo durante evento)
-http://stream.doball.com:8080/hls/c11.m3u8?feed
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 12 (attivo solo durante evento)
-http://stream.doball.com:8080/hls/ch12.m3u8?feed
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 13 (attivo solo durante evento)
-http://stream.doball.com:8080/hls/ch13.m3u8?feed
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 14 (attivo solo durante evento)
-http://stream.doball.com:8080/hls/ch14.m3u8?feed
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 15 (attivo solo durante evento)
-http://stream.doball.com:8080/hls/ch15.m3u8?feed
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Football 1 ukr
-https://46-166-151-34.livesports24.online/uafootballua1.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Football 2 ukr
-https://46-166-151-33.livesports24.online/fooootball2.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Match TV
-https://95-213-224-183.livesports24.online/ooomatch.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Match Planeta Russia
-https://95-213-224-183.livesports24.online/matchplanetarus.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Match Premier Russia
-https://95-213-224-183.livesports24.online/mpremierrus.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Match Football 1 Russia  opz 1 
-https://46-166-151-33.livesports24.online/ntvmatchfoot1.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Match Football 2 Russia  opz 2
-https://95-213-224-183.livesports24.online/ntvmatchfoot1.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Match Football 2 Russia
-https://95-213-224-183.livesports24.online/mfootball2rus.m3u8  
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Match Football 3 Russia
-https://95-213-224-183.livesports24.online/rumatchf3.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Match Arena Russia
-https://95-213-224-183.livesports24.online/rumatcharena.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Match Migra Russia
-https://95-213-224-183.livesports24.online/migra.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Match Nash sport
-https://95-213-224-183.livesports24.online/mnashsport.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",RSL Live TV (Rio Sport Live USA)
-http://bit.ly/39pbaY1
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Rtsh 1
-http://79.106.48.2/live/rtsh_1ott_p3/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Rtsh Sport
-http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",SETANTA SPORT 1
-https://46-166-151-34.livesports24.online/rusetantaeurasia.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",SETANTA SPORTS 2
-https://95-213-224-183.livesports24.online/setantaplusru.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Tennis Plus 1
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Tennis Plus 2
-https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Tennis Plus 3
-https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f/g.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Tennis Plus 4
-https://playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd/g.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Tennis Plus 5
-https://playoutengine.sinclairstoryline.com/playout/c05b21c0-e574-4b34-a26e-c6637dbd0fa5/g.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Tennis Plus 6
-https://playoutengine.sinclairstoryline.com/playout/735dea87-2128-40b7-8eaa-4252092c6dae/g.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Tennis Plus 7
-https://playoutengine.sinclairstoryline.com/playout/febfc709-d9a5-4caa-ab73-1cce0e4bc6e9/g.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Tennis Plus 8
-https://playoutengine.sinclairstoryline.com/playout/b287bd53-b70f-4b04-9096-10a5b5ba9d29/g.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Tennis Plus 9
-https://playoutengine.sinclairstoryline.com/playout/202886a0-38bf-4470-9043-6f7e3750a5cf/g.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Turkmenistan Sport Hd
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",SKY Sport news UK
-http://skdn.redi-vo.com/iptv/ch1053?code=138137164006399&key=62639
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",SKY Sport Football UK
-http://skdn.redi-vo.com/iptv/ch922?code=138137164006399&key=22520
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Sky Sport Premium UK
-http://skdn.redi-vo.com/iptv/ch937?code=138137164006399&key=57619
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",BT Sport 1
-http://skdn.redi-vo.com/iptv/ch1828?code=138137164006399&key=45498
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",BT Sport 2
-http://skdn.redi-vo.com/iptv/ch1829?code=138137164006399&key=57494
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",BT Sport 3
-http://skdn.redi-vo.com/iptv/ch1830?code=138137164006399&key=30373
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",LaLiga TV Bar 1
-http://skdn.redi-vo.com/iptv/ch1203?code=138137164006399&key=10016
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",M.L. Campeones HD SP
-http://skdn.redi-vo.com/iptv/ch1281?code=138137164006399&key=32884
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Bein Sport SPANA
-http://skdn.redi-vo.com/iptv/ch1220?code=138137164006399&key=25450
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Movistar LaLiga 1 HD
-http://skdn.redi-vo.com/iptv/ch1224?code=138137164006399&key=17683
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Real Madrid CH.
-http://skdn.redi-vo.com/iptv/ch1223?code=138137164006399&key=47675
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Barca Tv
-http://skdn.redi-vo.com/iptv/ch1225?code=138137164006399&key=64018
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Movistar Toros
-http://skdn.redi-vo.com/iptv/ch1226?code=138137164006399&key=15504
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Movistar Golf
-http://skdn.redi-vo.com/iptv/ch1227?code=138137164006399&key=60143
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",TELE DEPORTE SP
-http://skdn.redi-vo.com/iptv/ch1208?code=138137164006399&key=60635
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Eurosport 1
-http://skdn.redi-vo.com/iptv/ch1202?code=138137164006399&key=17418
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Canal Panda SP
-http://skdn.redi-vo.com/iptv/ch1228?code=138137164006399&key=33487
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Neox SP
-http://skdn.redi-vo.com/iptv/ch1229?code=138137164006399&key=58268
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Moto GP HD SP
-http://skdn.redi-vo.com/iptv/ch1284?code=138137164006399&key=11345
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Formula1 HD SP
-http://skdn.redi-vo.com/iptv/ch1285?code=138137164006399&key=47444
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",TSN 1 HD
-http://skdn.redi-vo.com/iptv/ch3522?code=138137164006399&key=12157
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",TSN 2 HD
-http://skdn.redi-vo.com/iptv/ch3523?code=138137164006399&key=54617
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",TSN 3 HD
-http://skdn.redi-vo.com/iptv/ch3524?code=138137164006399&key=24582
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",TSN 5 HD
-http://skdn.redi-vo.com/iptv/ch3526?code=138137164006399&key=38701
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",NBC HD
-http://skdn.redi-vo.com/iptv/ch3521?code=138137164006399&key=61270
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",WWE net.
-http://skdn.redi-vo.com/iptv/ch3518?code=138137164006399&key=21916
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",NHL net. HD
-http://skdn.redi-vo.com/iptv/ch3517?code=138137164006399&key=50778
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",NBC Sports net.
-http://skdn.redi-vo.com/iptv/ch3516?code=138137164006399&key=50917
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",NBA HD
-http://skdn.redi-vo.com/iptv/ch3515?code=138137164006399&key=40035
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Fox Sport 1 HD
-http://skdn.redi-vo.com/iptv/ch3513?code=138137164006399&key=30356
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Fox Sport 2 HD
-http://skdn.redi-vo.com/iptv/ch3514?code=138137164006399&key=23881
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",ESPN2 HD
-http://skdn.redi-vo.com/iptv/ch3512?code=138137164006399&key=16615
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",ESPN News HD
-http://skdn.redi-vo.com/iptv/ch3510?code=138137164006399&key=60519
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Fox sport 1
-http://skdn.redi-vo.com/iptv/ch867?code=138137164006399&key=62019
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Fox sport 3
-http://skdn.redi-vo.com/iptv/ch880?code=138137164006399&key=48133
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Fox Sport 5
-http://skdn.redi-vo.com/iptv/ch1862?code=138137164006399&key=33238
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Fox Sport 6
-http://skdn.redi-vo.com/iptv/ch1863?code=138137164006399&key=59444
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Ziggo NL
-http://skdn.redi-vo.com/iptv/ch3586?code=138137164006399&key=35409
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Ziggo Sport Voetball
-http://skdn.redi-vo.com/iptv/ch878?code=138137164006399&key=53667
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Ziggo Sport Golf
-http://skdn.redi-vo.com/iptv/ch1879?code=138137164006399&key=14362
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Ziggo Sport Extra
-http://skdn.redi-vo.com/iptv/ch1867?code=138137164006399&key=50232
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Ziggo Sport Doc.
-http://skdn.redi-vo.com/iptv/ch1866?code=138137164006399&key=31666
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Ziggo Sport Racing NL
-http://skdn.redi-vo.com/iptv/ch3585?code=138137164006399&key=57561
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Ziggo Sport Select
-http://skdn.redi-vo.com/iptv/ch860?code=138137164006399&key=24851
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Eurosport 1 NL
-http://skdn.redi-vo.com/iptv/ch1969?code=138137164006399&key=38198
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Eurosport 2 NL
-http://skdn.redi-vo.com/iptv/ch3549?code=138137164006399&key=17867
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Sport TV 2 PT
-http://skdn.redi-vo.com/iptv/ch2124?code=138137164006399&key=23461
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Sport TV 3 PT
-http://skdn.redi-vo.com/iptv/ch2125?code=138137164006399&key=54310
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Sport TV 4 PT
-http://skdn.redi-vo.com/iptv/ch2126?code=138137164006399&key=18673
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Sport TV 5 PT
-http://skdn.redi-vo.com/iptv/ch2127?code=138137164006399&key=49822
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",TRT Sport
-http://skdn.redi-vo.com/iptv/ch1363?code=138137164006399&key=44118
-#EXTINF:-1 group-title="MONDIAL SPORT,Sport Tv TR
-http://skdn.redi-vo.com/iptv/ch2366?code=138137164006399&key=29705
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",BeinSport 1 TR
-http://skdn.redi-vo.com/iptv/ch1353?code=138137164006399&key=31156
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",BeinSport 2 TR
-http://skdn.redi-vo.com/iptv/ch2355?code=138137164006399&key=15735
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",BeinSport 3 TR
-http://skdn.redi-vo.com/iptv/ch2356?code=138137164006399&key=44129
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",BeinSport 4 TR
-http://skdn.redi-vo.com/iptv/ch2360?code=138137164006399&key=19535
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",BeinSport Max 1
-http://skdn.redi-vo.com/iptv/ch2358?code=138137164006399&key=41059
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",BeinSport Max 2
-http://skdn.redi-vo.com/iptv/ch2359?code=138137164006399&key=29388
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Tivibu Sport 1
-http://skdn.redi-vo.com/iptv/ch2361?code=138137164006399&key=18337
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Tivibu Sport 2
-http://skdn.redi-vo.com/iptv/ch2362?code=138137164006399&key=10226
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Tivibu Sport 3
-http://skdn.redi-vo.com/iptv/ch1356?code=138137164006399&key=18724
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Smart Sport 1
-http://skdn.redi-vo.com/iptv/ch1355?code=138137164006399&key=20046
-
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",KSA SPORT 1
-http://skdn.redi-vo.com/iptv/ch823?code=138137164006399&key=44583
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",KSA SPORT 2
-http://skdn.redi-vo.com/iptv/ch824?code=138137164006399&key=38478
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",KSA SPORT +1
-http://skdn.redi-vo.com/iptv/ch825?code=138137164006399&key=17779
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",KSA SPORT +2
-http://skdn.redi-vo.com/iptv/ch826?code=138137164006399&key=42093
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",AD Sport 3 HD
-http://skdn.redi-vo.com/iptv/ch5519?code=138137164006399&key=18357
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",AD Sport 4 HD
-http://skdn.redi-vo.com/iptv/ch5520?code=138137164006399&key=41241
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Nile Sport
-http://skdn.redi-vo.com/iptv/ch183?code=138137164006399&key=23703
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Al Kaas 1
-http://skdn.redi-vo.com/iptv/ch497?code=138137164006399&key=32539
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Al Kaas 2
-http://skdn.redi-vo.com/iptv/ch442?code=138137164006399&key=27203
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Al Kaas 4
-http://skdn.redi-vo.com/iptv/ch545?code=138137164006399&key=49809
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Ahly Channel
-http://skdn.redi-vo.com/iptv/ch783?code=138137164006399&key=59553
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Dubai Sport 1
-http://skdn.redi-vo.com/iptv/ch154?code=138137164006399&key=28938
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Dubai Sport 2
-http://skdn.redi-vo.com/iptv/ch155?code=138137164006399&key=22583
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Dubai Sport 3
-http://skdn.redi-vo.com/iptv/ch1533?code=138137164006399&key=48799
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Dubai Racing 1
-http://skdn.redi-vo.com/iptv/ch1531?code=138137164006399&key=38695
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Dubai Racing 2
-http://skdn.redi-vo.com/iptv/ch1031?code=138137164006399&key=15238
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Dubai Racing 3
-http://skdn.redi-vo.com/iptv/ch1532?code=138137164006399&key=31381
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Saudie Sport
-http://skdn.redi-vo.com/iptv/ch747?code=138137164006399&key=20096
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Canal+ Sport
-http://skdn.redi-vo.com/iptv/ch202?code=138137164006399&key=22881
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Equidia Live
-http://skdn.redi-vo.com/iptv/ch269?code=138137164006399&key=51917
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",AB Moteur
-http://skdn.redi-vo.com/iptv/ch268?code=138137164006399&key=34426
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Golf Plus FR
-http://skdn.redi-vo.com/iptv/ch1299?code=138137164006399&key=28405
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Golf Channel FR
-http://skdn.redi-vo.com/iptv/ch290?code=138137164006399&key=43121
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",EuroSport 1 HD
-http://skdn.redi-vo.com/iptv/ch743?code=138137164006399&key=45912
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",EuroSport 2 HD
-http://skdn.redi-vo.com/iptv/ch744?code=138137164006399&key=23667
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Foot Plus
-http://skdn.redi-vo.com/iptv/ch266?code=138137164006399&key=35881
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Infosport HD
-http://skdn.redi-vo.com/iptv/ch250?code=138137164006399&key=11032
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",RMC News HD
-http://skdn.redi-vo.com/iptv/ch244?code=138137164006399&key=24950
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Eleven Sport 1 Fr.
-http://skdn.redi-vo.com/iptv/ch1648?code=138137164006399&key=46306
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Eleven Sport 2 Fr.
-http://skdn.redi-vo.com/iptv/ch1649?code=138137164006399&key=42751
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",RMC Sport 1 HD
-http://skdn.redi-vo.com/iptv/ch255?code=138137164006399&key=43852
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",RMC Sport 2 HD
-http://skdn.redi-vo.com/iptv/ch253?code=138137164006399&key=43971
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",RMC Sport 3 HD
-http://skdn.redi-vo.com/iptv/ch254?code=138137164006399&key=13496
-#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",RMC Sport 4 HD
-http://skdn.redi-vo.com/iptv/ch243?code=138137164006399&key=62334
+#EXTINF:0 tvg-logo="https://imgur.com/SLU4tqQ.jpg" group-title="🇺🇸== U-S-A ==🇺🇸", NBA TV HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
+#EXTINF:0 tvg-logo="https://imgur.com/SLU4tqQ.jpg" group-title="🇺🇸== U-S-A ==🇺🇸", ESPN1 HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
+#EXTINF:0 tvg-logo="https://imgur.com/SLU4tqQ.jpg" group-title="🇺🇸== U-S-A ==🇺🇸", ESPN2 HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
+#EXTINF:0 tvg-logo="https://imgur.com/SLU4tqQ.jpg" group-title="🇺🇸== U-S-A ==🇺🇸", ESPNU HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1190
+#EXTINF:0 tvg-logo="https://imgur.com/SLU4tqQ.jpg" group-title="🇺🇸== U-S-A ==🇺🇸", ESPN NEWS HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1191
+#EXTINF:0 tvg-logo="https://imgur.com/SLU4tqQ.jpg" group-title="🇺🇸== U-S-A ==🇺🇸", FOX SPORT 1 HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549
+#EXTINF:0 tvg-logo="https://imgur.com/SLU4tqQ.jpg" group-title="🇺🇸== U-S-A ==🇺🇸", FOX SPORT 2 HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550
+#EXTINF:0 tvg-logo="https://imgur.com/SLU4tqQ.jpg" group-title="🇺🇸== U-S-A ==🇺🇸", FOX SPORT 3 HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/775
+#EXTINF:0 tvg-logo="https://imgur.com/SLU4tqQ.jpg" group-title="🇺🇸== U-S-A ==🇺🇸", MLB NETWORK HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/736
+#EXTINF:0 tvg-logo="https://imgur.com/SLU4tqQ.jpg" group-title="🇺🇸== U-S-A ==🇺🇸", NFL NETWORK HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616
+#EXTINF:0 tvg-logo="https://imgur.com/SLU4tqQ.jpg" group-title="🇺🇸== U-S-A ==🇺🇸", FORMULA 1 HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
+#EXTINF:0 tvg-logo="https://imgur.com/SLU4tqQ.jpg" group-title="🇺🇸== U-S-A ==🇺🇸", SYFY TV HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652
+#EXTINF:0 tvg-logo="https://imgur.com/SLU4tqQ.jpg" group-title="🇺🇸== U-S-A ==🇺🇸", EPIX HITS TV HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/519
+#EXTINF:0 tvg-logo="https://imgur.com/SLU4tqQ.jpg" group-title="🇺🇸== U-S-A ==🇺🇸", E! ENTERTAIMENT HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/516
+#EXTINF:0 tvg-logo="https://imgur.com/SLU4tqQ.jpg" group-title="🇺🇸== U-S-A ==🇺🇸", FX HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
+#EXTINF:0 tvg-logo="https://imgur.com/SLU4tqQ.jpg" group-title="🇺🇸== U-S-A ==🇺🇸", TNT TV HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660
+#EXTINF:0 tvg-logo="https://imgur.com/SLU4tqQ.jpg" group-title="🇺🇸== U-S-A ==🇺🇸", A&E TV HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/482
+#EXTINF:0 tvg-logo="https://imgur.com/SLU4tqQ.jpg" group-title="🇺🇸== U-S-A ==🇺🇸", FOX NEWS HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/734
+#EXTINF:0 tvg-logo="https://imgur.com/SLU4tqQ.jpg" group-title="🇺🇸== U-S-A ==🇺🇸", DISCOVERY CHANNEL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1125
+#EXTINF:0 tvg-logo="https://imgur.com/SLU4tqQ.jpg" group-title="🇺🇸== U-S-A ==🇺🇸", LIFETIME HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/567
+#EXTINF:0 tvg-logo="https://imgur.com/SLU4tqQ.jpg" group-title="🇺🇸== U-S-A ==🇺🇸", MSNBC HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/596
+#EXTINF:0 tvg-logo="https://imgur.com/SLU4tqQ.jpg" group-title="🇺🇸== U-S-A ==🇺🇸", NATGEO HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
+#EXTINF:0 tvg-logo="https://imgur.com/SLU4tqQ.jpg" group-title="🇺🇸== U-S-A ==🇺🇸", COOKING CHANNEL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/504
+#EXTINF:0 tvg-logo="https://imgur.com/SLU4tqQ.jpg" group-title="🇺🇸== U-S-A ==🇺🇸", DISNEY TV HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
+#EXTINF:0 tvg-logo="https://imgur.com/SLU4tqQ.jpg" group-title="🇺🇸== U-S-A ==🇺🇸", LIFETIME MOVIE HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/568
+#EXTINF:0 tvg-logo="https://imgur.com/SLU4tqQ.jpg" group-title="🇺🇸== U-S-A ==🇺🇸", GOLF CHANNEL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/558
 
 
 #EXTINF: -1 group-title="FILM", C'era una volta a… Hollywood (2019)
@@ -1494,3 +1252,712 @@ http://casabasel.webhop.me:12000/italiano/2019/05/Cruise.mkv
 http://casabasel.webhop.me:12000/italiano/2019/05/Kings.2017.mkv
 #EXTINF: -1 group-title="FILM", SPF-18
 http://casabasel.webhop.me:12000/italiano/2017/01/SPF.18.2017.mkv
+
+
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",111 Tv
+https://5db313b643fd8.streamlock.net/111TV/111TV/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",12 Tv Parma  
+https://meridelive01-lh.akamaihd.net/i/tvparma_1@356964/master.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",4.0 Tv
+https://usb.bozztv.com/ssh101/VintageRadioTV/VintageRadioTV/index.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",696 Tv
+https://meridelive-lh.akamaihd.net/i/ottop_1@118465/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",7Gold Telerent
+https://stream2.xdevel.com/video0s86-21/stream/playlist_dvr.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",8 Video Calabria
+http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",AB Channel
+https://59ef7ad665d1d.streamlock.net:1443/abchannel/abchannel/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Abruzzo Tv
+http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",AGR Tv
+http://bit.ly/2QGApN6
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Alpa 1
+http://live.streamcaster.net:1935/alpauno/alpauno/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Alto Adige Tv    
+http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Ant.del Mediterraneo
+https://5cbd3bc28341f.streamlock.net:444/amnotizie/live/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Antenna 3 Nord Est
+https://59d8c0cee6f3d.streamlock.net/antennatre/antennatre/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Antenna 3 News
+https://59d7d6f47d7fc.streamlock.net/antennatre/antennatre/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Antenna Blu    
+https://5db313b643fd8.streamlock.net/AntennaBlu/AntennaBlu/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Antenna Blu Eventi
+https://5db313b643fd8.streamlock.net/AntennaBluEventi/AntennaBluEventi/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Antenna Sud
+http://wms.shared.streamshow.it/antennasud/antennasud/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Antenna Sud Cult
+https://59bb40cf810aa.streamlock.net:4443/as299/as299/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Antenna Sud Eventi
+https://59bb40cf810aa.streamlock.net:4443/as174/as174/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Antenna Sud Radio
+https://59bb40cf810aa.streamlock.net:4443/as196/as196/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Antenna Uno Lentini
+https://usb.bozztv.com/ssh101/antennaunolentini/antennaunolentini/index.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Arezzo Tv
+https://bit.ly/36ctkKp
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Arte Network
+https://w1.mediastreaming.it/tuttositiweb/livestream/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Aurora Arte
+https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Azzurra Tv Vco
+http://sb.top-ix.org:1935/avtvlive/streaming/chunklist_w1605488247.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Basilicata 1 Tv 
+http://77.68.40.210:8888/hls/basilicata1.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Bergamo Tv   
+http://api.new.livestream.com/accounts/245066/events/3063596/live.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",BFC Event
+http://backup.superstreaming.inaria.me/BFC/index.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",C.T.S. 90
+http://vod1.kronopress.com:1935/cts_live/cts/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Cafe Tv 24
+http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Calabria Tv 
+http://dcunilive55-lh.akamaihd.net/i/dclive_1@761392/index_150_av-b.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Calabria Uno
+http://5926fc9c7c5b2.streamlock.net/9030/9030/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Canale 2
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Canale 3
+http://bit.ly/2rRoK5v
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Canale 10
+http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Canale 12 Sassari
+http://wifitv.tv/media/live/1001/video_850000.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Canale 21 Campania
+http://live.sloode.com:1935/canale21/live/chunklist_w53574084.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Canale 21 Lazio
+http://live.sloode.com:1935/canale21/live2/chunklist_w1973132640.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Canale 40
+http://151.80.100.112:1935/canale40/canale40/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Canale 48 Sardegna
+https://5cc309e93b721.streamlock.net/8374/8374/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Canale 58 
+https://dotfvxkfj90ca.cloudfront.net/live/canale58_aac/master.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Canale 66
+https://usb.bozztv.com/ssh101/canale66tv/canale66tv/index.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Canale 7 Tv Puglia
+http://wms.shared.streamshow.it:80/canale7/canale7/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Canale 8 Napoli
+https://59d8c0cee6f3d.streamlock.net/canale8/canale8/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Canale 8 Palermo
+http://live.sloode.com:1935/canale8_live/ECg98Gm5wMYE3VabXNBzphgS4EWyfctj/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Canale 8 Siracusa
+https://usb.bozztv.com/ssh101/canale8/canale8/index.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Canale 85
+http://wms.shared.streamshow.it/canale85/mp4:canale85/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Canale 166 Puglia
+http://bit.ly/35kZC4L
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://www.tvdream.net/img/canale-italia.png",Canale Italia (480p)
+http://d144aunvw6in2.cloudfront.net/ac024_broad/schedule/chunklist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://www.tvdream.net/img/canale-italia.png",Canale Italia
+http://ac024fe.streamcloud.it/service/media-provider/live/5680/playlist.m3u8?accessToken=51c3544ac33a24b012ba69bf6349db78
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Canale Salento  
+https://usb.bozztv.com/ssh101/cansale2020/cansale2020/index.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Carina Tv
+http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Castrovillari Tv
+rtmp://msh0062.stream.seeweb.it:1935/live/stream00.sdp
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Cavalli Tv
+http://dotfvxkfj90ca.cloudfront.net/programming/cavallitv/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Cilentano TV
+https://usb.bozztv.com/ssh101/cilentanotv1/cilentanotv1/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Cilentano TV 2
+https://usb.bozztv.com/ssh101/cilentanotv2/cilentanotv2/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Cilento Channel
+http://ipstream.cloud:8080/app/cilentocnn.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Concordia Tv
+https://usb.bozztv.com/ssh101/radioconcordia/radioconcordia/index.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Convenienza Tv 
+https://dcunilive35-lh.akamaihd.net/i/dclive_1@668662/index_150_av-p.m3u8?sd=6&rebase=on
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Cremona 1
+https://59d8c0cee6f3d.streamlock.net/cremona1/cremona1/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Di.Tv 90
+http://163.172.88.73:1935/di_tv_90/live/chunklist_w707472623.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Digital TV7 Benevento
+http://streaming.senecadot.com/live/flv:tv7.sdp/chunklist_w132253248.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Donna Tv
+http://59d7d6f47d7fc.streamlock.net/donnatv/donnatv/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Eden Tv 86
+http://wma02.fluidstream.net/EdenTV/smil:EdenTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",E'Live Brescia Tv
+https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/chunklist_w1234149773.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Emme Tv 89 
+https://usb.bozztv.com/ssh101/emmetv89/emmetv89/index.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Easy Tv
+rtmp://live.puglia.net/hls/canale190
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Entella Tv   
+https://dcunilive115-lh.akamaihd.net/i/dclive_1@365972/index_150_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Espansione Tv  
+https://srvx1.selftv.video/espansione/live/chunklist_w946499575.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Esperia Tv
+http://wms.shared.streamshow.it/esperiatv/esperiatv/chunklist_w1096393748.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Etv Marche
+http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Etv Rete7
+http://live.sloode.com:1935/rete7/live/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Extra Tv
+https://msh0315.stream.seeweb.it/live/flv:stream00.sdp/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Evangelo Tv 
+http://streaming.wim.tv/programming/evangelotv2/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Fano Tv (Canale 17)
+https://5cbd3bc28341f.streamlock.net:444/fanotv_live/_definst_/43DA-3923-9C72-4E9F/chunklist_w1207024846.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Fatima Tv
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Gargano Tv 
+http://streaming.wim.tv/live/garganotv_aac/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Globus Tv
+http://flash2.streaming.xdevel.com:80/globusradiocam/globusradiocam/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Gold 78
+http://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8 
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Gold Tv Roma 
+http://151.0.207.99:1935/GoldTV/GOLD_17/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Granducato Tv 
+https://www.granducatotv.eu/tv/granducato/stream/alt.m3u8_v6.php?vid=2&cid=995&m3u8=.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",GRP Tv
+https://usb.bozztv.com/ssh101/grptvmedia/grptvmedia/index.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Icaro Tv Rimini
+https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/chunklist_w2105836851.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Imperia Tv
+http://bit.ly/2tcjXMl
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Irc Tv
+http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Italia 2
+https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Italia 7
+http://151.0.207.99:1935/italia7/italia7/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Italia 9 Network 
+https://usb.bozztv.com/ssh101/Italia9Network/Italia9Network/chunklist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Italia Tv 
+http://185.63.52.103:8080/hls/italiatv/index.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Julie News
+https://59ef7ad665d1d.streamlock.net:1443/julieitalia/_definst_/julieitalia/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",La 242 Tv
+https://streaming.wim.tv/live/_definst_/la242live_aac/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",La Nuova Tv
+https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",La Tenda Tv 112
+http://bit.ly/37q3GSS
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",La3 Marsala
+https://59ef7ad665d1d.streamlock.net:1443/eslife/_definst_/eslife/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Lab Tv
+http://live.sloode.com:1935/labtv_live/labtv/chunklist_w2038941170.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",LaC News 24
+https://cdn.mainstreaming.tv/live/100532/HVvPMzy/playlist.m3u8?rnd=861954
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",LaC Tv Calabria
+https://cdn.mainstreaming.tv/live/100197/SOrBDPy/playlist.m3u8?rnd=180989
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Lazio Tv
+http://151.0.207.99:1935/live/LAZIOTV12/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Le Cronache Lucane Tv   
+http://stucazz.com:8888/hls/cronache.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Lira Tv  
+http://5bc42255bee71.streamlock.net/liratv/diretta01/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Lombardia Tv
+https://5db313b643fd8.streamlock.net/LOMBARDIATV/LOMBARDIATV/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Lombardia Tv Sport (SuperSIX)   
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Love in Venice  
+https://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Lucania Tv
+http://wms.shared.streamshow.it:80/lucaniatv/lucaniatv/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Magaze Tv
+https://odmsto.com/sh/magazemusic
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Maria Vision
+https://5d105b7b85ba8.streamlock.net:8443/l/_jcn_/amlst:CHANNEL_2/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Media Tv
+http://live.sloode.com:1935/mediatv/live/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Medjugorje Italia Tv
+http://46.105.208.13:1935/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Michelangelo Tv
+https://usb.bozztv.com/ssh101/michelangelotivu/michelangelotivu/index.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Milano Now
+https://odmsto.com/sh/milnow
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Napoli Nova Tv  
+https://stream1.aswifi.it/napolinova/live/index.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Nettuno Tv
+http://msh0333.stream.seeweb.it/live/flv:stream00.sdp/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",NTI Canale 271 
+http://www.ntimedia.it/video/S0/S0__720p-.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Ofanto Tv 
+http://media.az-mediaserver.com:1935/7446/7446/chunklist_w454796868.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Onda Novara Tv
+https://585b674743bbb.streamlock.net/9006/9006/chunklist_w1203732906.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Onda Tv
+https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",One Tv E.R.
+http://dcunilive38-lh.akamaihd.net/i/dclive_1@692438/index_150_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Ora Tv
+https://5db313b643fd8.streamlock.net/OraTv/OraTv/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Orler Tv
+https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Paradise Tv
+https://59ef7ad665d1d.streamlock.net:1443/paradisetv/_definst_/paradisetv/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Parole di Vita
+https://5db313b643fd8.streamlock.net/Paroledivita/Paroledivita/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Partenope Tv 
+https://live.puglia.net:8080/live/partenopetv/index.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Passione Lotto Tv 
+http://185.63.52.103:8080/hls/passionelotto/index.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Pax Tv 
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1735000.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Persona Tv 
+https://5db313b643fd8.streamlock.net/PersonaTV/PersonaTV/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Prima Napoli Tv 
+https://stream1.aswifi.it/primatvnapoli/live/index.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Prima Tivvu' 
+http://sb.top-ix.org/streamtech/tvlive1/chunklist_w1644425816.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Prima Tv
+http://flash2.streaming.xdevel.com/primatv/primatv/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Primarete Lombardia
+https://streamcdnm11.mainstreaming.tv/cdn/live/324149/hlbAWtl/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Primarete Sicilia
+http://live.sloode.com:1935/primaretesicilia/live/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Primocanale
+http://msh0203.stream.seeweb.it/live/stream1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://www.tvdream.net/img/promovideotv.png",Promovideo Tv
+https://5c5f9de27ba6f.streamlock.net/promovideo_web/promovideo/chunklist_w2130825285.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://www.tvdream.net/img/qvc.png",Q.V.C. Italia
+http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/chunklist_b2592000.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Quarto Canale Flegreo
+http://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",R+Tv Abruzzo
+https://54627d4fc5996.streamlock.net/rnews/rnews/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Radio Monte Kronio Tv
+http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/chunklist_w758377964.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Ran Tv Friul
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@690032/index_150_av-p.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Ran Tv Germ
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@690033/index_150_av-p.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Ran Tv Slov
+http://dcunilive38-lh.akamaihd.net/i/dclive_1@689955/index_150_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Reggio Tv
+https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Rei Tv
+https://usb.bozztv.com/ssh101/ReiTv/ReiTv/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Rete 79
+https://flash2.xdevel.com/rete79/rete79/master.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Rete 8 VGA 
+https://59af8c77bd5d6.streamlock.net/rete8/rete8/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Rete 55   
+https://stream.internet.one/Rete55_Live/index.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Rete Biella
+https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Rete Mia 
+https://5db313b643fd8.streamlock.net/Retemia/Retemia/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Rete Oro Tv
+https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Rete Sole (Lazio)
+http://5c389faa13be3.streamlock.net:1935/8056/8056/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Rete Sole (Umbria)
+http://5c389faa13be3.streamlock.net:1935/8058/8058/chunklist_w696604988.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Rete Veneta 
+http://wms.shared.streamshow.it/reteveneta/reteveneta/chunklist_w1047580983.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Reteconomy
+http://streaming.reteconomy.it/live/reteconomy/chunklist_w791398149.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Rmm Marche
+http://wma02.fluidstream.net/StudioRMM/livestream/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Roma 71
+http://151.0.207.99:1935/ROMACH71/CH71/chunklist_w9999999999.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Rossini Tv
+https://5cbd3bc28341f.streamlock.net:444/rossinitv_live/944A-63A6-9EB8-4492/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",RTI Calabria  
+http://5.97.176.162:1935/live/rti-calabria/playlist.m3u8 
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",R.T.I. Tv (Lepida tv) 
+https://bit.ly/37oopq7
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",RTC Quarta Rete
+http://msh0232.stream.seeweb.it/live/flv:stream012.sdp/chunklist_w732980069.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",RTC Targato Napoli
+http://tvcampanegold1.srfms.com:1935/tvcampanegold1/livestream/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",RTC Tele Calabria
+https://w1.mediastreaming.it/calabriachannel/livestream/chunklist_w893895529.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",RTG TeleGolfo  
+https://585b674743bbb.streamlock.net/9058/9058/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",RTN Napoli
+https://edge.hls.hitbox.tv/hls/rtntvnapoli/index.m3u8?st=WXOTpMDvcZMuKsIEtKWEBQ;ci=4onQFdwfrOqMxzNITrZHsg
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",RTP Tv
+http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",RTTR Tv Trento
+http://wma07.fluidstream.net:1935/RTTRlive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",RTV 38 Toscana
+http://open.http.mp.streamamg.com/p/3001301/sp/300130100/playManifest/entryId/0_seco7tg8/format/applehttp/protocol/https/uiConfId/30026353/a.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Rtv San Marino 
+https://dlxommsyqo2g0.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Sardegna 1
+http://59d7d6f47d7fc.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Seila Tv 216    
+https://usb.bozztv.com/ssh101/seilatvcanale216/seilatvcanale216/index.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Sestarete Sicilia 
+https://odmsto.com/sh/sestaretesic
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Set Tv Cilento 
+https://stream1.aswifi.it/settv/live/index.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Sharing Tv  
+http://stream3.xdevel.com/video0s975416-121/stream/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Sicilia 091 HD
+https://5cbd3bc28341f.streamlock.net:444/siciliahd_live/5874-C3F9-6E9E-4547/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Sicilia Media
+http://live.streamcaster.net:1935/siciliamediatv_live/siciliamedia/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Sicilia Tv
+https://usb.bozztv.com/ssh101/siciliatv/siciliatv/index.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Siciliauno
+https://usb.bozztv.com/ssh101/siciliaunostreaming/siciliaunostreaming/index.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Siculiana NelWeb Tv   
+https://usb.bozztv.com/ssh101/SNelweb/SNelweb/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Siena Tv
+http://wz2.newradio.it:1935/9018/9018/chunklist_w1356961040.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",SL 48 Tv
+http://media.velcom.it:1935/sl48/sl48/chunklist_w751971098.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Soverato 1 Tv
+https://usb.bozztv.com/ssh101/soverato1/soverato1/index.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Start 818 Tv        
+http://57e0550c502b6.streamlock.net:444/sabiniatv/live/chunklist_w327554693.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Stile Tv
+http://convision2.convergenze.it/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Studio 1
+https://flash8.xdevel.com/rete79/rete79/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Studio 100
+http://wms.shared.streamshow.it:1935/studio100ta/studio100ta/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Sud Tv
+http://bit.ly/35lsM3R
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Super J Tv
+http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Super Six 24
+https://5db313b643fd8.streamlock.net/SuperSix/SuperSix/chunklist_w428651502.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Supersix Lombardia
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Super Tv Oristano
+http://193.70.81.40:1935/supertvoristano/_definst_/supertvoristano/chunklist_w2082703033.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Super Tv
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",TCF Tv
+http://live.sloode.com:1935/tcf_live/telecineforum/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",TCS (Tele Centro Sicula) 
+https://5cbd3bc28341f.streamlock.net:444/tcs/live/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Teatro Tv 
+https://m.iostream.it/hls/teatrotv/teatrotv.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele 8 Trapani
+https://5cbd3bc28341f.streamlock.net:444/tele8/tele8/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele A 
+http://82.62.190.94/hls/telea/video.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Abruzzo Tv
+https://54627d4fc5996.streamlock.net/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Arena
+http://wma07.fluidstream.net:1935/TeleArena/livestream/live.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Argento/Magic Tv
+http://163.172.88.73:1935/magic_web/site/chunklist_w1342104039.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Bari
+http://fl1.mediastreaming.it:1935/telebari/livestream/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Belluno   
+https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Blu
+https://58d921499d3d3.streamlock.net/Teleblu/livestream/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Boario
+http://flash7.streaming.xdevel.com/teleboario/teleboario/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Chiara
+http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Citta'
+http://213.187.12.18/live/tv1.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Citta' Padova
+rtmp://stream.telepadova.com/live/tv1
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Club Italia (Canale 98) 
+https://bit.ly/2MJoVae
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Clusone Bergamo  
+https://video1.getstreamhosting.com:1936/8594/8594/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Crotone
+https://w1.mediastreaming.it/movidatv/movidatv/chunklist_w621208970.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Cupole
+http://live.livevideosolution.it/telecupole/dd6d85e5b7452f7b85a099509292b421.sdp/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Diocesi Salerno
+http://5bc42255bee71.streamlock.net/telediocesi/diretta/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Etruria
+https://dcunilive125-lh.akamaihd.net/i/dclive_1@358616/index_150_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Foggia
+http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/chunklist_w386788975.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Friuli
+http://or01.top-ix.org:1935/streamtech/telefriuli/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Galatina
+https://flash2.xdevel.com/telegalatina/telegalatina/manifest_w2127172126.mpd
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Gela    
+https://5cbd3bc28341f.streamlock.net:444/qdg_live/AF74-FF2C-7350-41F2/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Genova
+https://5db313b643fd8.streamlock.net/Telegenova/Telegenova/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Granda
+http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Iblea
+https://usb.bozztv.com/ssh101/teleibleaNew/teleibleaNew/index.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Idea 
+https://5b38ce71f1f00.streamlock.net/8334/8334/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Jonio 
+http://59d7d6f47d7fc.streamlock.net/telejonio/telejonio/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Laser
+http://5c389faa13be3.streamlock.net:1935/8048/8048/chunklist_w1477512841.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Lazio Nord  
+http://tln.srfms.com:1935/TLN/livestream/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Leontina  
+https://usb.bozztv.com/ssh101/teleleontina/teleleontina/index.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Liberta' HD 
+https://player-api.new.livestream.com/accounts/17114188/events/4902226/broadcasts/198152210.secure.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Liberty
+https://vod.livestream.com/5cd16ebc_2c74693a81ae90a566543cef777f7f71c8b311ee/events/00000000004acd52/49844e19-7b82-4a3c-afd8-7f3e727af6c3_696.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Liguria Sud
+https://live.teleliguriasud.it/hls/tls/index.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Mantova 
+http://wma07.fluidstream.net:1935/TeleMantova/livestream/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Maria
+https://streaming.wim.tv/programming/telemaria/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Mia
+http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Mia Extra
+https://player.ilariochiera.it/fileadmin/hls/TelemiaExtra/stream.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Mia Uno
+https://player.ilariochiera.it/fileadmin/hls/TelemiaUno/stream.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Milano
+http://91.121.222.160:1935/piublu/piublu.sdp/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Mistretta  
+https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Milano Piu' Blu
+http://ondemand.superstreaming.it:1935/piublu/piublu.sdp/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Molise
+http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream_tlm/chunklist_w1170267390.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Monteneve
+http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Monteneve 3
+http://wms.shared.streamshow.it/telemonteneve3/telemonteneve3/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Nord Est Lombardia 
+https://59d7d6f47d7fc.streamlock.net/telenord/telenord/chunklist_w2111676469.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Nord Genova
+https://5db313b643fd8.streamlock.net/Telenord/Telenord/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Nostra
+https://meridelive-lh.akamaihd.net/i/ottop_1@118465/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Nuova 
+https://usb.bozztv.com/ssh101/Telenuova/Telenuova/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Oltre 
+http://1se1.troydesign.eu/np_teleoltre/_definst_/channel1_np_teleoltre/playlist.m3u8?ext=.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Onda
+https://59bb40cf810aa.streamlock.net:4443/teleonda/teleonda/chunklist_w618070491.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele One
+http://live.streamcaster.net:1935/mediaone_live/teleone/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Pace 1
+https://live.mariatvcdn.com/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/mono.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Pace 2
+https://live.mariatvcdn.com/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/mono.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Pace 3                                          
+https://live.mariatvcdn.com/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/mono.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Pace 4
+https://live.mariatvcdn.com/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/mono.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Pace Roma
+https://live.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/index.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Pace Trento
+http://player.adobemediaserver.it/aatt-hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Pace Verona
+https://live.mariatvcdn.com/TelepaceVerona/a9027aba28cf4b54d10aedc38b0df192.sdp/index.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Pavia
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Pegaso
+http://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Pordenone
+rtmp://213.187.12.18/telepn/telepn
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Prima
+https://5cbd3bc28341f.streamlock.net:444/teleprima/stream/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Quattro Trieste
+http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w1388066579.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Radio Sciacca
+https://5cbd3bc28341f.streamlock.net:444/trs_live/teleradiosciacca-tv/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Radio Studio 5
+http://mars.az-streamingserver.com:1935/7444/7444/chunklist_w1479892021.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Rama
+https://58d921499d3d3.streamlock.net/TeleRama/livestream/chunklist_w1747460348.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Regione
+http://live.puglia.net:81/hls/canale190.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Teleregione Toscana
+https://streaming.wim.tv/live/_definst_/teleregionelivestreaming_aac/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Roma 1   
+https://flash2.xdevel.com/teleromauno/teleromauno/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Romagna
+http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Romagna Lifestyle
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Romagna Mia
+http://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Romagna News
+http://livetr.teleromagna.it/news/live/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele San Domenico (TSD)
+http://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/mono.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Sardegna
+https://odmsto.com/sh/telesard
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Spazio Messina
+http://master.putaradio.com:8080/play/stream.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Sud Trapani
+https://5cbd3bc28341f.streamlock.net:444/telesud/_definst_/live/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Terni
+https://diretta.teleterni.it/live/stream_src.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Tibur    
+https://57068da1deb21.streamlock.net/teletibur/teletibur/chunklist_w1505891546.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Ticino
+https://teleticino720ptest.vedge.infomaniak.com/livecast/smil:teleticino720ptest.smil/chunklist_w765587604_b3001080.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Tricolore
+https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Tutto  
+http://api.new.livestream.com/accounts/701633/events/4147166/live.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Unica Lecco 
+http://bit.ly/2ZLSjSu
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Unica Sondrio
+http://bit.ly/2QmN60D
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Universo
+https://5bc744e9aac0b.streamlock.net/teleuniverso/teleuniverso/chunklist_w866664331.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Venezia
+https://59d7d6f47d7fc.streamlock.net/televenezia/televenezia/chunklist_w952481899.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Video Agrigento (T.V.A.)
+https://59d7d6f47d7fc.streamlock.net/tva/tva/chunklist_w2057719642.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Vomero
+https://stream2.xdevel.com/video0s100-23/stream/playlist_dvr.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Teleacras
+http://live.sloode.com:1935/teleacras/live/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Telecolor Lombardia
+http://cdn.mainstreaming.tv/live/324149/hlbAWtl/playlist.m3u8
+https://streamcdnm11.mainstreaming.tv/cdn/live/324149/hlbAWtl/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Telecolore Salerno
+https://5bc42255bee71.streamlock.net/telecolore/telecolore/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Teledehon
+http://flash8.xdevel.com/teledehon/teledehon/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Telenova 
+https://bit.ly/2tdtTFc
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",TeleOccidente
+http://ciaoitaly.ddns.net:8050/TELE%20OCCIDENTE.m3u8?u=teleoccidente:p=montelepre
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Telestense 
+http://flash2.streaming.xdevel.com/promovideolink1/promovideolink1/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Telenuova 2 Campania
+rtmp://54.228.254.95:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Telerent HD
+https://stream2.xdevel.com/video0s86-21/stream/playlist_dvr.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Telereporter
+https://cdn.mainstreaming.tv/live/324148/w36Wj0A/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Teleriviera 
+https://5cc309e93b721.streamlock.net/8354/8354/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Telestar 1
+http://193.34.109.10:8090/
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Telesveva 
+https://dc1.telesveva.erefresh.it:4443/livetv.mp4
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tele Universo
+https://5bc744e9aac0b.streamlock.net/teleuniverso/teleuniverso/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Teleuno Tris
+https://5db313b643fd8.streamlock.net/Tris/Tris/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Televallassina
+https://bit.ly/2u2Cc7p
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Ten (Teleuropa)
+https://odmsto.com/sh/ten
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tevere Tv
+https://5926fc9c7c5b2.streamlock.net/9098/9098/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",TFN Tele Futura Nissa
+https://usb.bozztv.com/ssh101/TFNWEB/TFNWEB/index.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tg You24 Channel
+http://streaming.wim.tv/programming/TgYou24Channel/chunklist_w274563260.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tirreno Sat
+https://odmsto.com/sh/tirrenosat
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",TRG Umbria
+http://streaming126.trgmedia.it/filestream/livestreamHD.m3u8?636761251116113654
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",TRC Civitavecchia
+https://odmsto.com/sh/trccivit
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Trc Modena
+http://o1.senape.tv:1935/webtv_live/VC3TCRHI9LNP/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Trentino Tv
+http://77.72.196.214:8554/live/TrentinoTV/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tris New
+https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tris Siracusa 
+https://5db313b643fd8.streamlock.net/Tris/Tris/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Trm H24
+http://w1.streamingmedia.it:1935/trmh24/live/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",TSB
+http://streaming.wim.tv/live/_definst_/digitaleterrestre_aac/chunklist_w1277921044.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",T.S.E. Uno (Tele Scout Europa)
+http://stream.mariatvcdn.com/tse/bd5a2cb40637623177295aed22db25f9.sdp/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tsn Lecco
+http://59d8c0cee6f3d.streamlock.net/tsn2/tsn2_mobile/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tsn Tele Sondrio News
+http://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tua Channel
+https://5e60b0449be90.streamlock.net/promovideo_web/catholika/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tuscia Sabina 2000 Tv
+http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/chunks.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tv Campane 1
+http://tvcampane1.srfms.com:1935/tvcampane1/livestream/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tv Campane 2 
+http://tvcampane12.srfms.com:1935/tvcampane12/livestream/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tv Campane Gold
+http://tvcampanegold.srfms.com:1935/tvcampanegold/livestream/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tv Libera Pistoia
+http://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/mono.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tv Luna
+http://live.sloode.com:1935/teleluna/live/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tv Oggi Salerno
+https://dotfvxkfj90ca.cloudfront.net/live/tvoggi_aac/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tv Prato 
+https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/mono.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tv Qui Modena
+https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",TV6
+http://185.202.128.1:1935/Tv6Stream/tv6TV.stream_tlm/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",TV7 Azzurra
+http://217.61.26.46:8080/hls/azzurra.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",TV7 il 13
+http://217.61.26.46:8080/hls/il13.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",TV7 News
+http://217.61.26.46:8080/hls/news.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",TV7 Triveneta
+http://217.61.26.46:8080/hls/triveneta.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tva Televideo Agrigento
+https://59d7d6f47d7fc.streamlock.net/tva/tva/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tva Vicenza
+http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tvr Xenon
+https://5d00db0e0fcd5.streamlock.net/7384/7384/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tvrs
+http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Tv Uno
+http://ftp.tiscali.it/francescovernata/TVUNO/monoscopioTvUNOint-1.wmv
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Umbria Tv
+http://eventi.ictvalleumbra.it:1935/live/umbriatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Uninettuno University Tv
+https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Veneto Uno
+https://odmsto.com/sh/veneto1
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Vera Tv
+http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Vibonese Tv  
+http://streamcdnf2.mainstreaming.tv/cdn/live/324215/zPnHWY2/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Vicenza Più Tv
+https://bit.ly/2ONyYeN
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Video 33
+http://livestream.goinfo.it/V33Live/v33ros/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Video Brescia
+http://wms.shared.streamshow.it/videobrescia/videobrescia/hasbahca.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Video Mediterraneo HD
+http://streaming.ermeslink.com:88/hlsme/vmstream.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Video Nola
+http://stream1.aswifi.it/videonola/live/index.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Video Novara
+http://sb.top-ix.org/avtv04/_definst_/streaming/master.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Video Star  
+https://5cbd3bc28341f.streamlock.net:444/videostar_live/_definst_/videostar/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Video Star Plus
+https://5cbd3bc28341f.streamlock.net:444/videostar_live/_definst_/videostar2/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Videolina
+http://livestreaming.videolina.it/live/Videolina/chunklist_w488279894.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",VideOne
+http://live.streamcaster.net:1935/siciliamediatv_live/siciliamedia/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Video Tolentino  
+http://5c389faa13be3.streamlock.net:1935/8064/8064/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Videostar Tv Lombardia
+http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Vintage Radio Tv
+https://usb.bozztv.com/ssh101/VintageRadioTV/VintageRadioTV/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Viva l'Italia Channel 
+https://live.puglia.net:8080/live/viva/index.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Well Tv 
+https://59d7d6f47d7fc.streamlock.net/welltv/welltv/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",WL-Tv Tris News   
+https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",Yvii Tv
+rtmp://yviistreamer.kernel.online:1935/live/yviitv
