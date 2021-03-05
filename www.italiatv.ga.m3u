@@ -131,6 +131,305 @@ https://amuse-amuseanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.tvdream.net/img/raiyoyo.png" group-title="🇮🇹== BAMBINI ==🇮🇹", RAI YOYO HD - (SOLO ANDROID)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
 
+
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Abu Dhabi Sports 1 HD 
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Abu Dhabi Sports 2 HD 
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports4
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Abu Dhabi Sports 5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports5
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Abu Dhabi Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",CBC SPORT
+http://streams2.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 1 (attivo solo durante evento)
+http://stream.doball.com:8080/hls/ch1.m3u8?feed
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 2 (attivo solo durante evento)
+http://stream.doball.com:8080/hls/ch2.m3u8?feed
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 3 (attivo solo durante evento)
+http://stream.doball.com:8080/hls/ch3.m3u8?feed
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 4 (attivo solo durante evento)
+http://stream.doball.com:8080/hls/ch4.m3u8?feed
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 5 (attivo solo durante evento)
+http://stream.doball.com:8080/hls/ch5.m3u8?feed
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 6 (attivo solo durante evento)
+http://stream.doball.com:8080/hls/ch6.m3u8?feed
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 7 (attivo solo durante evento)
+http://stream.doball.com:8080/hls/ch7.m3u8?feed
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 8 (attivo solo durante evento)
+http://stream.doball.com:8080/hls/ch8.m3u8?feed
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 9 (attivo solo durante evento)
+http://stream.doball.com:8080/hls/ch9.m3u8?feed
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 10 (attivo solo durante evento)
+http://stream.doball.com:8080/hls/ch10.m3u8?feed
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 11 (attivo solo durante evento)
+http://stream.doball.com:8080/hls/c11.m3u8?feed
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 12 (attivo solo durante evento)
+http://stream.doball.com:8080/hls/ch12.m3u8?feed
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 13 (attivo solo durante evento)
+http://stream.doball.com:8080/hls/ch13.m3u8?feed
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 14 (attivo solo durante evento)
+http://stream.doball.com:8080/hls/ch14.m3u8?feed
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Doball 15 (attivo solo durante evento)
+http://stream.doball.com:8080/hls/ch15.m3u8?feed
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Football 1 ukr
+https://46-166-151-34.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Football 2 ukr
+https://46-166-151-33.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Match TV
+https://95-213-224-183.livesports24.online/ooomatch.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Match Planeta Russia
+https://95-213-224-183.livesports24.online/matchplanetarus.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Match Premier Russia
+https://95-213-224-183.livesports24.online/mpremierrus.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Match Football 1 Russia  opz 1 
+https://46-166-151-33.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Match Football 2 Russia  opz 2
+https://95-213-224-183.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Match Football 2 Russia
+https://95-213-224-183.livesports24.online/mfootball2rus.m3u8  
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Match Football 3 Russia
+https://95-213-224-183.livesports24.online/rumatchf3.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Match Arena Russia
+https://95-213-224-183.livesports24.online/rumatcharena.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Match Migra Russia
+https://95-213-224-183.livesports24.online/migra.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Match Nash sport
+https://95-213-224-183.livesports24.online/mnashsport.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",RSL Live TV (Rio Sport Live USA)
+http://bit.ly/39pbaY1
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Rtsh 1
+http://79.106.48.2/live/rtsh_1ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Rtsh Sport
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",SETANTA SPORT 1
+https://46-166-151-34.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",SETANTA SPORTS 2
+https://95-213-224-183.livesports24.online/setantaplusru.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Tennis Plus 1
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Tennis Plus 2
+https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Tennis Plus 3
+https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f/g.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Tennis Plus 4
+https://playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd/g.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Tennis Plus 5
+https://playoutengine.sinclairstoryline.com/playout/c05b21c0-e574-4b34-a26e-c6637dbd0fa5/g.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Tennis Plus 6
+https://playoutengine.sinclairstoryline.com/playout/735dea87-2128-40b7-8eaa-4252092c6dae/g.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Tennis Plus 7
+https://playoutengine.sinclairstoryline.com/playout/febfc709-d9a5-4caa-ab73-1cce0e4bc6e9/g.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Tennis Plus 8
+https://playoutengine.sinclairstoryline.com/playout/b287bd53-b70f-4b04-9096-10a5b5ba9d29/g.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Tennis Plus 9
+https://playoutengine.sinclairstoryline.com/playout/202886a0-38bf-4470-9043-6f7e3750a5cf/g.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Turkmenistan Sport Hd
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",SKY Sport news UK
+http://skdn.redi-vo.com/iptv/ch1053?code=138137164006399&key=62639
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",SKY Sport Football UK
+http://skdn.redi-vo.com/iptv/ch922?code=138137164006399&key=22520
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Sky Sport Premium UK
+http://skdn.redi-vo.com/iptv/ch937?code=138137164006399&key=57619
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",BT Sport 1
+http://skdn.redi-vo.com/iptv/ch1828?code=138137164006399&key=45498
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",BT Sport 2
+http://skdn.redi-vo.com/iptv/ch1829?code=138137164006399&key=57494
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",BT Sport 3
+http://skdn.redi-vo.com/iptv/ch1830?code=138137164006399&key=30373
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",LaLiga TV Bar 1
+http://skdn.redi-vo.com/iptv/ch1203?code=138137164006399&key=10016
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",M.L. Campeones HD SP
+http://skdn.redi-vo.com/iptv/ch1281?code=138137164006399&key=32884
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Bein Sport SPANA
+http://skdn.redi-vo.com/iptv/ch1220?code=138137164006399&key=25450
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Movistar LaLiga 1 HD
+http://skdn.redi-vo.com/iptv/ch1224?code=138137164006399&key=17683
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Real Madrid CH.
+http://skdn.redi-vo.com/iptv/ch1223?code=138137164006399&key=47675
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Barca Tv
+http://skdn.redi-vo.com/iptv/ch1225?code=138137164006399&key=64018
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Movistar Toros
+http://skdn.redi-vo.com/iptv/ch1226?code=138137164006399&key=15504
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Movistar Golf
+http://skdn.redi-vo.com/iptv/ch1227?code=138137164006399&key=60143
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",TELE DEPORTE SP
+http://skdn.redi-vo.com/iptv/ch1208?code=138137164006399&key=60635
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Eurosport 1
+http://skdn.redi-vo.com/iptv/ch1202?code=138137164006399&key=17418
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Canal Panda SP
+http://skdn.redi-vo.com/iptv/ch1228?code=138137164006399&key=33487
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Neox SP
+http://skdn.redi-vo.com/iptv/ch1229?code=138137164006399&key=58268
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Moto GP HD SP
+http://skdn.redi-vo.com/iptv/ch1284?code=138137164006399&key=11345
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Formula1 HD SP
+http://skdn.redi-vo.com/iptv/ch1285?code=138137164006399&key=47444
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",TSN 1 HD
+http://skdn.redi-vo.com/iptv/ch3522?code=138137164006399&key=12157
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",TSN 2 HD
+http://skdn.redi-vo.com/iptv/ch3523?code=138137164006399&key=54617
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",TSN 3 HD
+http://skdn.redi-vo.com/iptv/ch3524?code=138137164006399&key=24582
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",TSN 5 HD
+http://skdn.redi-vo.com/iptv/ch3526?code=138137164006399&key=38701
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",NBC HD
+http://skdn.redi-vo.com/iptv/ch3521?code=138137164006399&key=61270
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",WWE net.
+http://skdn.redi-vo.com/iptv/ch3518?code=138137164006399&key=21916
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",NHL net. HD
+http://skdn.redi-vo.com/iptv/ch3517?code=138137164006399&key=50778
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",NBC Sports net.
+http://skdn.redi-vo.com/iptv/ch3516?code=138137164006399&key=50917
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",NBA HD
+http://skdn.redi-vo.com/iptv/ch3515?code=138137164006399&key=40035
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Fox Sport 1 HD
+http://skdn.redi-vo.com/iptv/ch3513?code=138137164006399&key=30356
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Fox Sport 2 HD
+http://skdn.redi-vo.com/iptv/ch3514?code=138137164006399&key=23881
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",ESPN2 HD
+http://skdn.redi-vo.com/iptv/ch3512?code=138137164006399&key=16615
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",ESPN News HD
+http://skdn.redi-vo.com/iptv/ch3510?code=138137164006399&key=60519
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Fox sport 1
+http://skdn.redi-vo.com/iptv/ch867?code=138137164006399&key=62019
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Fox sport 3
+http://skdn.redi-vo.com/iptv/ch880?code=138137164006399&key=48133
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Fox Sport 5
+http://skdn.redi-vo.com/iptv/ch1862?code=138137164006399&key=33238
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Fox Sport 6
+http://skdn.redi-vo.com/iptv/ch1863?code=138137164006399&key=59444
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Ziggo NL
+http://skdn.redi-vo.com/iptv/ch3586?code=138137164006399&key=35409
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Ziggo Sport Voetball
+http://skdn.redi-vo.com/iptv/ch878?code=138137164006399&key=53667
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Ziggo Sport Golf
+http://skdn.redi-vo.com/iptv/ch1879?code=138137164006399&key=14362
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Ziggo Sport Extra
+http://skdn.redi-vo.com/iptv/ch1867?code=138137164006399&key=50232
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Ziggo Sport Doc.
+http://skdn.redi-vo.com/iptv/ch1866?code=138137164006399&key=31666
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Ziggo Sport Racing NL
+http://skdn.redi-vo.com/iptv/ch3585?code=138137164006399&key=57561
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Ziggo Sport Select
+http://skdn.redi-vo.com/iptv/ch860?code=138137164006399&key=24851
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Eurosport 1 NL
+http://skdn.redi-vo.com/iptv/ch1969?code=138137164006399&key=38198
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Eurosport 2 NL
+http://skdn.redi-vo.com/iptv/ch3549?code=138137164006399&key=17867
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Sport TV 2 PT
+http://skdn.redi-vo.com/iptv/ch2124?code=138137164006399&key=23461
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Sport TV 3 PT
+http://skdn.redi-vo.com/iptv/ch2125?code=138137164006399&key=54310
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Sport TV 4 PT
+http://skdn.redi-vo.com/iptv/ch2126?code=138137164006399&key=18673
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Sport TV 5 PT
+http://skdn.redi-vo.com/iptv/ch2127?code=138137164006399&key=49822
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",TRT Sport
+http://skdn.redi-vo.com/iptv/ch1363?code=138137164006399&key=44118
+#EXTINF:-1 group-title="MONDIAL SPORT,Sport Tv TR
+http://skdn.redi-vo.com/iptv/ch2366?code=138137164006399&key=29705
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",BeinSport 1 TR
+http://skdn.redi-vo.com/iptv/ch1353?code=138137164006399&key=31156
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",BeinSport 2 TR
+http://skdn.redi-vo.com/iptv/ch2355?code=138137164006399&key=15735
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",BeinSport 3 TR
+http://skdn.redi-vo.com/iptv/ch2356?code=138137164006399&key=44129
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",BeinSport 4 TR
+http://skdn.redi-vo.com/iptv/ch2360?code=138137164006399&key=19535
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",BeinSport Max 1
+http://skdn.redi-vo.com/iptv/ch2358?code=138137164006399&key=41059
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",BeinSport Max 2
+http://skdn.redi-vo.com/iptv/ch2359?code=138137164006399&key=29388
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Tivibu Sport 1
+http://skdn.redi-vo.com/iptv/ch2361?code=138137164006399&key=18337
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Tivibu Sport 2
+http://skdn.redi-vo.com/iptv/ch2362?code=138137164006399&key=10226
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Tivibu Sport 3
+http://skdn.redi-vo.com/iptv/ch1356?code=138137164006399&key=18724
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Smart Sport 1
+http://skdn.redi-vo.com/iptv/ch1355?code=138137164006399&key=20046
+
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",KSA SPORT 1
+http://skdn.redi-vo.com/iptv/ch823?code=138137164006399&key=44583
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",KSA SPORT 2
+http://skdn.redi-vo.com/iptv/ch824?code=138137164006399&key=38478
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",KSA SPORT +1
+http://skdn.redi-vo.com/iptv/ch825?code=138137164006399&key=17779
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",KSA SPORT +2
+http://skdn.redi-vo.com/iptv/ch826?code=138137164006399&key=42093
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",AD Sport 3 HD
+http://skdn.redi-vo.com/iptv/ch5519?code=138137164006399&key=18357
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",AD Sport 4 HD
+http://skdn.redi-vo.com/iptv/ch5520?code=138137164006399&key=41241
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Nile Sport
+http://skdn.redi-vo.com/iptv/ch183?code=138137164006399&key=23703
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Al Kaas 1
+http://skdn.redi-vo.com/iptv/ch497?code=138137164006399&key=32539
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Al Kaas 2
+http://skdn.redi-vo.com/iptv/ch442?code=138137164006399&key=27203
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Al Kaas 4
+http://skdn.redi-vo.com/iptv/ch545?code=138137164006399&key=49809
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Ahly Channel
+http://skdn.redi-vo.com/iptv/ch783?code=138137164006399&key=59553
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Dubai Sport 1
+http://skdn.redi-vo.com/iptv/ch154?code=138137164006399&key=28938
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Dubai Sport 2
+http://skdn.redi-vo.com/iptv/ch155?code=138137164006399&key=22583
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Dubai Sport 3
+http://skdn.redi-vo.com/iptv/ch1533?code=138137164006399&key=48799
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Dubai Racing 1
+http://skdn.redi-vo.com/iptv/ch1531?code=138137164006399&key=38695
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Dubai Racing 2
+http://skdn.redi-vo.com/iptv/ch1031?code=138137164006399&key=15238
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Dubai Racing 3
+http://skdn.redi-vo.com/iptv/ch1532?code=138137164006399&key=31381
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Saudie Sport
+http://skdn.redi-vo.com/iptv/ch747?code=138137164006399&key=20096
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Canal+ Sport
+http://skdn.redi-vo.com/iptv/ch202?code=138137164006399&key=22881
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Equidia Live
+http://skdn.redi-vo.com/iptv/ch269?code=138137164006399&key=51917
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",AB Moteur
+http://skdn.redi-vo.com/iptv/ch268?code=138137164006399&key=34426
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Golf Plus FR
+http://skdn.redi-vo.com/iptv/ch1299?code=138137164006399&key=28405
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Golf Channel FR
+http://skdn.redi-vo.com/iptv/ch290?code=138137164006399&key=43121
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",EuroSport 1 HD
+http://skdn.redi-vo.com/iptv/ch743?code=138137164006399&key=45912
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",EuroSport 2 HD
+http://skdn.redi-vo.com/iptv/ch744?code=138137164006399&key=23667
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Foot Plus
+http://skdn.redi-vo.com/iptv/ch266?code=138137164006399&key=35881
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Infosport HD
+http://skdn.redi-vo.com/iptv/ch250?code=138137164006399&key=11032
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",RMC News HD
+http://skdn.redi-vo.com/iptv/ch244?code=138137164006399&key=24950
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Eleven Sport 1 Fr.
+http://skdn.redi-vo.com/iptv/ch1648?code=138137164006399&key=46306
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",Eleven Sport 2 Fr.
+http://skdn.redi-vo.com/iptv/ch1649?code=138137164006399&key=42751
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",RMC Sport 1 HD
+http://skdn.redi-vo.com/iptv/ch255?code=138137164006399&key=43852
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",RMC Sport 2 HD
+http://skdn.redi-vo.com/iptv/ch253?code=138137164006399&key=43971
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",RMC Sport 3 HD
+http://skdn.redi-vo.com/iptv/ch254?code=138137164006399&key=13496
+#EXTINF:-1 tvg-id="" group-title="SPORT INTERNATIONAL" tvg-logo="",RMC Sport 4 HD
+http://skdn.redi-vo.com/iptv/ch243?code=138137164006399&key=62334
+
+
 #EXTINF: -1 group-title="FILM", C'era una volta a… Hollywood (2019)
 http://casabasel.webhop.me:12000/italiano/2019/17/C.Era.Una.Volta.A.Hollywood.2019.mkv
 #EXTINF: -1 group-title="FILM", Il re leone (2019)
