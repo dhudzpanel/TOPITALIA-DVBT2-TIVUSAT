@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="urn:mpeg:dash:schema:mpd:2011"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xsi:schemaLocation="urn:mpeg:DASH:schema:MPD:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd"
+     profiles="urn:mpeg:dash:profile:isoff-live:2011"
+     type="dynamic"
+     minimumUpdatePeriod="PT7.402S" 
+     publishTime="2021-03-06T11:24:09Z" 
+     availabilityStartTime="2021-03-06T03:00:15Z" 
+     timeShiftBufferDepth="PT50.28S"
+     suggestedPresentationDelay="PT20.0S" 
+     minBufferTime="PT6.0S">
+<ProgramInformation>
+    <Title>radiotouring10496_aac</Title>
+</ProgramInformation>
+<Location>https://spottsportitalia.akamaized.net/hls/live/2006297/spottsportitaliahls01/spottsportitaliahls01_3000/chunklist.m3u8?hdntl=exp=1615126700~acl=/*~data=hdntl~hmac=6f9ee01c76c0a861a876dc1942617798231bb20fb4db6f4b6e0e19e0b70d6264&cid=27725&mid=&ecid=181938&pid=5&dtid=1&ident=611309470531&content=57561&path=sportitalia_01</Location>
+<Period id="0" start="PT0.0S">
+    <AdaptationSet id="0" group="1" mimeType="video/mp4" width="720" height="404" par="16:9" frameRate="25" segmentAlignment="true" startWithSAP="1" subsegmentAlignment="true" subsegmentStartsWithSAP="1">
+        <SegmentTemplate timescale="90000" media="chunk_ctvideo_cfm4s_rid$RepresentationID$_cs$Time$_w99874410_mpd.m4s" initialization="chunk_ctvideo_cfm4s_rid$RepresentationID$_cinit_w99874410_mpd.m4s">
+            <SegmentTimeline>
+                <S t="2716251030" d="900000"/>
+                <S d="867600"/>
+                <S d="1054800"/>
+                <S d="727200"/>
+                <S d="975600"/>
+            </SegmentTimeline>
+        </SegmentTemplate>
+        <Representation id="p0va0br883681" codecs="avc1.4d0033" sar="1:1" bandwidth="883681" />
+    </AdaptationSet>
+    <AdaptationSet id="1" group="2" mimeType="audio/mp4" lang="eng" segmentAlignment="true" startWithSAP="1" subsegmentAlignment="true" subsegmentStartsWithSAP="1">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+        <SegmentTemplate timescale="44100" media="chunk_ctaudio_cfm4s_rid$RepresentationID$_cs$Time$_w99874410_mpd.m4s" initialization="chunk_ctaudio_cfm4s_rid$RepresentationID$_cinit_w99874410_mpd.m4s">
+            <SegmentTimeline>
+                <S t="1330963931" d="440294"/>
+                <S d="424992"/>
+                <S d="517117"/>
+                <S d="356328"/>
+                <S d="478220"/>
+            </SegmentTimeline>
+        </SegmentTemplate>
+        <Representation id="p0aa0br45691" codecs="mp4a.40.2" audioSamplingRate="44100" bandwidth="45691">
+        </Representation>
+    </AdaptationSet>
+</Period>
+<UTCTiming schemeIdUri="urn:mpeg:dash:utc:direct:2014" value="2021-03-06T11:24:09Z"/>
+</MPD>
