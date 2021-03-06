@@ -133,9 +133,6 @@ https://amuse-amuseanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.tvdream.net/img/raiyoyo.png" group-title="🇮🇹== BAMBINI ==🇮🇹", RAI YOYO HD - (SOLO ANDROID)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
 
-#EXTINF:0 tvg-logo="https://imgur.com/ld1JoBQ.jpg" group-title="⚽️== SKY SPORTS ==⚽️", SKY SERIE A
-https://raw.githubusercontent.com/dhudzpanel/TOPITALIA-DVBT2-TIVUSAT/main/italiatv-seriea.m3u8
-
 #EXTINF:0 tvg-logo="https://imgur.com/SLU4tqQ.jpg" group-title="🇺🇸== U-S-A ==🇺🇸", NBA TV HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
 #EXTINF:0 tvg-logo="https://imgur.com/SLU4tqQ.jpg" group-title="🇺🇸== U-S-A ==🇺🇸", ESPN1 HD
