@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=179427,CODECS="avc1.77.40,mp4a.40.2",RESOLUTION=1280x720
+https://spottsportitalia.akamaized.net/hls/live/2006297/spottsportitaliahls01/spottsportitaliahls01_3000/chunklist.m3u8?hdntl=exp=1615125881~acl=/*~data=hdntl~hmac=189d791cd2c1baaffbbdf2f9d4c9e80ec6595a01a7b4a56a64829c52473a3cf3&cid=27725&mid=&ecid=181938&pid=5&dtid=1&ident=267918175025&content=57561&path=sportitalia_01
