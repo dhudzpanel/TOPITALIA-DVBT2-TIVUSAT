@@ -1254,6 +1254,8 @@ http://casabasel.webhop.me:12000/italiano/2019/05/Kings.2017.mkv
 http://casabasel.webhop.me:12000/italiano/2017/01/SPF.18.2017.mkv
 
 
+#EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",RADIOTOURING TV
+https://flash2.xdevel.com/radiotouring10496/radiotouring10496_aac/manifest_w99874410.mpd
 #EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",111 Tv
 https://5db313b643fd8.streamlock.net/111TV/111TV/playlist.m3u8
 #EXTINF:-1 group-title="REGIONALI" tvg-logo="https://fbcd.co/images/products/16a0f903bf78c3bdc5366f285609ad17_resize.jpg",12 Tv Parma  
