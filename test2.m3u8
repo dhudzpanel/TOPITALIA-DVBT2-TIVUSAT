@@ -14,7 +14,7 @@
 <ProgramInformation>
     <Title>radiotouring10496_aac</Title>
 </ProgramInformation>
-<Location>https://spottsportitalia.akamaized.net/hls/live/2006297/spottsportitaliahls01/spottsportitaliahls01_3000/chunklist.m3u8?hdntl=exp=1615126700~acl=/*~data=hdntl~hmac=6f9ee01c76c0a861a876dc1942617798231bb20fb4db6f4b6e0e19e0b70d6264&cid=27725&mid=&ecid=181938&pid=5&dtid=1&ident=611309470531&content=57561&path=sportitalia_01</Location>
+<Location>https://spottsportitalia.akamaized.net/hls/live/2006297/spottsportitaliahls01/spottsportitaliahls01_3000/chunklist.m3u8</Location>
 <Period id="0" start="PT0.0S">
     <AdaptationSet id="0" group="1" mimeType="video/mp4" width="720" height="404" par="16:9" frameRate="25" segmentAlignment="true" startWithSAP="1" subsegmentAlignment="true" subsegmentStartsWithSAP="1">
         <SegmentTemplate timescale="90000" media="chunk_ctvideo_cfm4s_rid$RepresentationID$_cs$Time$_w99874410_mpd.m4s" initialization="chunk_ctvideo_cfm4s_rid$RepresentationID$_cinit_w99874410_mpd.m4s">
